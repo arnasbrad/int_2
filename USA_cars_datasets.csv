@@ -1,0 +1,2500 @@
+price,brand,year,title_status,mileage,state
+6998,nissan,2015,clean vehicle,43651,vermont
+12750,nissan,2015,clean vehicle,24629,massachusetts
+11621,nissan,2015,clean vehicle,12840,rhode island
+2200,nissan,2015,salvage insurance,73382,texas
+8495,nissan,2015,clean vehicle,45043,new hampshire
+7998,nissan,2015,clean vehicle,62921,vermont
+6300,toyota,2008,clean vehicle,274117,new jersey
+2000,nissan,2012,salvage insurance,159990,oklahoma
+2899,ford,2011,clean vehicle,190552,tennessee
+5350,dodge,2018,clean vehicle,39590,georgia
+25000,ford,2014,clean vehicle,64146,virginia
+27700,chevrolet,2018,clean vehicle,6654,florida
+5700,dodge,2018,clean vehicle,45561,texas
+7300,chevrolet,2010,clean vehicle,149050,georgia
+13350,gmc,2017,clean vehicle,23525,california
+14600,chevrolet,2018,clean vehicle,9371,florida
+5250,ford,2017,clean vehicle,63418,texas
+10400,dodge,2009,clean vehicle,107856,georgia
+12920,gmc,2017,clean vehicle,39650,california
+31900,chevrolet,2018,clean vehicle,22909,tennessee
+5430,chrysler,2017,clean vehicle,138650,texas
+20700,ford,2013,clean vehicle,100757,virginia
+12710,gmc,2017,clean vehicle,25747,california
+5200,kia,2018,clean vehicle,46194,north carolina
+16500,buick,2018,clean vehicle,20002,tennessee
+5210,ford,2017,clean vehicle,35714,texas
+38100,ford,2013,clean vehicle,54380,virginia
+12520,gmc,2017,clean vehicle,30114,california
+7300,kia,2018,clean vehicle,38823,north carolina
+15000,chevrolet,2015,clean vehicle,61578,ohio
+6180,ford,2017,clean vehicle,46010,texas
+20800,ford,2013,clean vehicle,105510,virginia
+11900,gmc,2017,clean vehicle,28040,california
+21500,kia,2020,clean vehicle,11451,north carolina
+12000,buick,2014,clean vehicle,31039,ohio
+4190,ford,2017,clean vehicle,44174,texas
+13000,ford,2008,clean vehicle,93698,tennessee
+12710,gmc,2017,clean vehicle,26364,california
+18500,infiniti,2016,clean vehicle,71967,new york
+29800,chevrolet,1973,clean vehicle,46226,pennsylvania
+5330,ford,2017,clean vehicle,37792,texas
+13000,ford,2003,clean vehicle,58817,virginia
+11900,gmc,2017,clean vehicle,27965,california
+16600,mercedes-benz,2016,clean vehicle,110907,new york
+19200,chevrolet,2018,clean vehicle,2430,tennessee
+7320,ford,2017,clean vehicle,32366,texas
+7000,ford,2003,clean vehicle,176567,tennessee
+12710,gmc,2017,clean vehicle,30049,california
+16600,mercedes-benz,2016,clean vehicle,97983,new york
+30500,chevrolet,2018,clean vehicle,30442,tennessee
+6330,ford,2017,clean vehicle,38123,texas
+55000,ford,2017,clean vehicle,15273,pennsylvania
+12520,gmc,2017,clean vehicle,28972,california
+16200,jeep,2019,clean vehicle,30061,north carolina
+19000,chevrolet,2017,clean vehicle,18414,tennessee
+5580,dodge,2017,clean vehicle,46829,texas
+54000,ford,2017,clean vehicle,26241,pennsylvania
+12710,gmc,2017,clean vehicle,39886,california
+16000,jeep,2019,clean vehicle,31594,north carolina
+27000,buick,2017,clean vehicle,32107,tennessee
+7760,ford,2017,clean vehicle,44794,texas
+19600,chrysler,2019,clean vehicle,42648,south carolina
+12920,gmc,2017,clean vehicle,39165,california
+20000,jeep,2019,clean vehicle,38355,north carolina
+18100,buick,2017,clean vehicle,46766,florida
+23000,chrysler,2020,clean vehicle,2473,ohio
+18500,chrysler,2019,clean vehicle,38586,south carolina
+13490,gmc,2017,clean vehicle,27842,california
+20700,jeep,2019,clean vehicle,31156,north carolina
+17800,chevrolet,2017,clean vehicle,52435,florida
+6650,ford,2017,clean vehicle,29942,texas
+29100,chrysler,2019,clean vehicle,25281,south carolina
+12710,gmc,2017,clean vehicle,32504,california
+21100,jeep,2019,clean vehicle,28649,north carolina
+18600,chevrolet,2017,clean vehicle,35200,florida
+4340,ford,2017,clean vehicle,25602,texas
+19300,chrysler,2019,clean vehicle,34801,south carolina
+12780,gmc,2017,clean vehicle,31009,california
+15800,jeep,2019,clean vehicle,35595,north carolina
+29400,bmw,2017,clean vehicle,23765,tennessee
+4430,ford,2017,clean vehicle,31792,texas
+19400,chrysler,2019,clean vehicle,33135,south carolina
+12520,gmc,2017,clean vehicle,30636,california
+15900,jeep,2019,clean vehicle,34502,north carolina
+26400,buick,2017,clean vehicle,25434,florida
+4140,ford,2017,clean vehicle,36732,texas
+18300,chrysler,2019,clean vehicle,41792,south carolina
+12520,gmc,2017,clean vehicle,31992,california
+17900,jeep,2019,clean vehicle,32501,north carolina
+18300,chevrolet,2017,clean vehicle,28395,florida
+4640,ford,2017,clean vehicle,36139,texas
+24000,ford,2016,clean vehicle,84413,pennsylvania
+13200,gmc,2017,clean vehicle,33457,california
+18000,jeep,2019,clean vehicle,29245,north carolina
+14900,chevrolet,2017,clean vehicle,12783,florida
+4140,ford,2017,clean vehicle,17617,texas
+11500,ford,2016,clean vehicle,36855,pennsylvania
+9110,ford,2017,clean vehicle,110316,texas
+7350,chrysler,2015,clean vehicle,88227,pennsylvania
+24500,bmw,2017,clean vehicle,17626,michigan
+9300,ford,2017,clean vehicle,120353,texas
+39800,dodge,2015,clean vehicle,3641,pennsylvania
+53500,bmw,2017,clean vehicle,29355,michigan
+15110,ford,2017,clean vehicle,39333,texas
+34000,ford,2015,clean vehicle,42930,pennsylvania
+26502,chevrolet,2017,clean vehicle,24993,michigan
+5990,ford,2017,clean vehicle,44929,texas
+13600,ford,2018,clean vehicle,16971,south carolina
+23605,cadillac,2017,clean vehicle,35598,michigan
+10780,ford,2017,clean vehicle,40455,texas
+13800,ford,2018,clean vehicle,23164,south carolina
+25201,cadillac,2017,clean vehicle,19011,michigan
+7070,ford,2017,clean vehicle,45191,texas
+8700,ford,2018,clean vehicle,21405,south carolina
+18003,chevrolet,2017,clean vehicle,19117,michigan
+8530,ford,2017,clean vehicle,42104,texas
+23100,dodge,2018,clean vehicle,49496,south carolina
+24500,cadillac,2017,clean vehicle,32418,michigan
+7000,ford,2017,clean vehicle,29882,texas
+17000,ford,2018,clean vehicle,34819,south carolina
+34002,chevrolet,2017,clean vehicle,31923,michigan
+6980,ford,2017,clean vehicle,29168,texas
+25000,dodge,2018,clean vehicle,28307,michigan
+20802,chevrolet,2017,clean vehicle,33791,michigan
+9200,ford,2017,clean vehicle,21770,texas
+26500,chrysler,2017,clean vehicle,18375,michigan
+24802,chevrolet,2017,clean vehicle,14158,michigan
+7070,ford,2017,clean vehicle,30318,texas
+28500,ford,2017,clean vehicle,48086,south carolina
+47500,cadillac,2017,clean vehicle,26562,michigan
+23500,ford,2017,clean vehicle,57611,south carolina
+23505,chevrolet,2017,clean vehicle,47357,michigan
+10940,ford,2017,clean vehicle,84916,texas
+32100,ford,2017,clean vehicle,24521,south carolina
+53000,chevrolet,2018,clean vehicle,16105,washington
+6830,ford,2017,clean vehicle,35888,texas
+11900,dodge,2017,clean vehicle,59537,south carolina
+26414,chevrolet,2017,clean vehicle,55222,michigan
+4160,dodge,2018,clean vehicle,32870,florida
+19405,chevrolet,2017,clean vehicle,39687,michigan
+5690,dodge,2018,clean vehicle,47085,florida
+25900,chrysler,2017,clean vehicle,32224,south carolina
+24005,chevrolet,2017,clean vehicle,51293,michigan
+5090,dodge,2018,clean vehicle,42989,florida
+19500,chrysler,2017,clean vehicle,31311,arizona
+32012,chevrolet,2017,clean vehicle,46091,michigan
+6800,dodge,2016,clean vehicle,49033,michigan
+4260,dodge,2018,clean vehicle,33957,florida
+0,dodge,2008,salvage insurance,177948,utah
+31802,chevrolet,2017,clean vehicle,19845,michigan
+7210,dodge,2018,clean vehicle,38910,florida
+0,dodge,2014,salvage insurance,123660,utah
+28402,chevrolet,2017,clean vehicle,31234,michigan
+6800,dodge,2018,clean vehicle,36767,florida
+33300,cadillac,2015,clean vehicle,57932,washington
+10780,dodge,2018,clean vehicle,19420,florida
+6700,ford,2014,clean vehicle,204155,pennsylvania
+20000,chevrolet,2016,clean vehicle,93493,washington
+6440,chrysler,2018,clean vehicle,20942,florida
+19900,ford,2016,clean vehicle,86826,south carolina
+37000,chevrolet,2015,clean vehicle,45787,washington
+4040,dodge,2018,clean vehicle,50765,florida
+22300,ford,2016,clean vehicle,62774,south carolina
+31200,chevrolet,2011,clean vehicle,76326,washington
+4290,dodge,2018,clean vehicle,39029,florida
+22800,ford,2016,clean vehicle,72885,south carolina
+19002,cadillac,2016,clean vehicle,46467,michigan
+4160,dodge,2018,clean vehicle,6743,florida
+18500,ford,2016,clean vehicle,33514,south carolina
+39000,bmw,2016,clean vehicle,39917,michigan
+6060,dodge,2018,clean vehicle,32504,florida
+28800,ford,2016,clean vehicle,77638,south carolina
+40000,bmw,2016,clean vehicle,31727,michigan
+6140,dodge,2018,clean vehicle,52966,florida
+21000,ford,2016,clean vehicle,24157,south carolina
+20105,buick,2016,clean vehicle,51393,michigan
+6760,dodge,2018,clean vehicle,35461,florida
+25800,ford,2014,clean vehicle,47055,pennsylvania
+39000,bmw,2016,clean vehicle,33110,michigan
+5470,dodge,2018,clean vehicle,39721,florida
+14600,ford,2014,clean vehicle,75785,pennsylvania
+24502,chevrolet,2016,clean vehicle,33624,michigan
+15110,ford,2017,clean vehicle,42289,texas
+7900,ford,2014,clean vehicle,79422,new york
+27305,chevrolet,2016,clean vehicle,28844,michigan
+15290,ford,2017,clean vehicle,66582,texas
+26500,ford,2015,clean vehicle,61436,south carolina
+25502,chevrolet,2016,clean vehicle,58303,michigan
+7320,ford,2017,clean vehicle,55618,texas
+3800,chevrolet,2009,clean vehicle,261648,michigan
+24502,chevrolet,2016,clean vehicle,33045,michigan
+4140,ford,2017,clean vehicle,40747,texas
+1400,dodge,2002,clean vehicle,185460,michigan
+18402,cadillac,2016,clean vehicle,26667,michigan
+4160,ford,2017,clean vehicle,37176,texas
+175,chrysler,2000,salvage insurance,231240,north carolina
+24503,chevrolet,2016,clean vehicle,18006,michigan
+15840,ford,2017,clean vehicle,72445,texas
+20500,ford,2014,clean vehicle,123355,south carolina
+21003,chevrolet,2016,clean vehicle,44116,michigan
+4200,ford,2017,clean vehicle,60219,texas
+17400,ford,2011,clean vehicle,135077,georgia
+32001,chevrolet,2016,clean vehicle,32058,michigan
+0,ford,2017,clean vehicle,76858,texas
+15700,ford,2011,clean vehicle,309564,south carolina
+31009,chevrolet,2016,clean vehicle,33928,michigan
+3740,ford,2017,clean vehicle,90618,texas
+5000,dodge,2001,clean vehicle,109360,georgia
+31002,chevrolet,2016,clean vehicle,71809,michigan
+3160,ford,2017,clean vehicle,31563,texas
+8600,dodge,2005,clean vehicle,219823,south carolina
+6000,chevrolet,2018,clean vehicle,42090,texas
+12990,ford,2017,clean vehicle,126523,texas
+25,chevrolet,2020,salvage insurance,7232,kentucky
+13200,buick,2017,clean vehicle,60171,texas
+4410,ford,2017,clean vehicle,209915,texas
+25,chrysler,2005,salvage insurance,151815,massachusetts
+22500,chevrolet,2020,clean vehicle,13826,georgia
+7420,ford,2017,clean vehicle,55854,texas
+13500,ford,2016,clean vehicle,45757,arizona
+15500,chevrolet,2020,clean vehicle,16545,georgia
+3540,ford,2017,clean vehicle,112893,texas
+17000,ford,2016,clean vehicle,126802,florida
+45500,chevrolet,2020,clean vehicle,13303,georgia
+4130,ford,2017,clean vehicle,34061,texas
+15700,ford,2015,clean vehicle,70251,arizona
+45500,chevrolet,2020,clean vehicle,13679,georgia
+4130,ford,2017,clean vehicle,42426,texas
+15500,dodge,2012,clean vehicle,66452,pennsylvania
+16300,chevrolet,2020,clean vehicle,18221,georgia
+4530,ford,2017,clean vehicle,41455,texas
+15600,dodge,2011,clean vehicle,35275,pennsylvania
+45500,chevrolet,2020,clean vehicle,13885,georgia
+4100,ford,2017,clean vehicle,38815,texas
+18200,dodge,2011,clean vehicle,162281,pennsylvania
+10200,chevrolet,2013,clean vehicle,56479,texas
+4080,ford,2017,clean vehicle,61027,texas
+5700,ford,2014,clean vehicle,178703,florida
+10200,chevrolet,2014,clean vehicle,173469,texas
+5000,ford,2017,clean vehicle,37321,texas
+1700,ford,2014,clean vehicle,112789,florida
+6200,bmw,2011,clean vehicle,80394,texas
+3650,ford,2016,clean vehicle,68142,texas
+10500,dodge,2014,clean vehicle,74203,arizona
+43500,chevrolet,2018,clean vehicle,57604,georgia
+4610,dodge,2016,clean vehicle,87229,texas
+3450,ford,2012,clean vehicle,90711,florida
+38500,chevrolet,2018,clean vehicle,11135,georgia
+6810,ford,2016,clean vehicle,66781,texas
+2900,ford,2011,clean vehicle,190994,florida
+43500,chevrolet,2018,clean vehicle,56007,georgia
+4450,ford,2016,clean vehicle,32486,texas
+5800,ford,2011,clean vehicle,195908,florida
+16500,chevrolet,2018,clean vehicle,18020,georgia
+4240,dodge,2016,clean vehicle,83262,texas
+26500,ford,2008,clean vehicle,62015,pennsylvania
+13700,chevrolet,2017,clean vehicle,36421,georgia
+8600,ford,2016,clean vehicle,73321,texas
+8000,ford,2008,clean vehicle,132379,florida
+14200,chevrolet,2017,clean vehicle,28013,georgia
+7040,ford,2016,clean vehicle,33291,texas
+4700,ford,2005,clean vehicle,225236,florida
+30851,chevrolet,2016,clean vehicle,43176,georgia
+4880,ford,2016,clean vehicle,36876,texas
+14500,dodge,2006,clean vehicle,111782,pennsylvania
+7600,chevrolet,2017,clean vehicle,110489,nebraska
+13270,ford,2016,clean vehicle,84035,texas
+12800,ford,2012,clean vehicle,131101,arizona
+33000,chevrolet,2018,clean vehicle,52521,ontario
+9280,ford,2016,clean vehicle,101380,texas
+900,ford,2003,clean vehicle,142027,florida
+7560,ford,2016,clean vehicle,111476,texas
+19500,ford,2011,clean vehicle,76897,pennsylvania
+17100,chevrolet,2019,clean vehicle,15780,washington
+8020,ford,2016,clean vehicle,31944,texas
+10300,ford,2019,clean vehicle,18937,missouri
+22600,chevrolet,2019,clean vehicle,9706,washington
+10480,ford,2016,clean vehicle,57289,texas
+10300,ford,2019,clean vehicle,19956,missouri
+22700,chevrolet,2019,clean vehicle,6075,washington
+7410,ford,2016,clean vehicle,21034,texas
+10300,ford,2019,clean vehicle,22881,missouri
+10300,chevrolet,2013,clean vehicle,167600,washington
+7570,ford,2016,clean vehicle,37252,texas
+67000,dodge,2019,clean vehicle,10944,ohio
+18900,chevrolet,2019,clean vehicle,27601,texas
+12560,ford,2019,clean vehicle,15958,florida
+33000,dodge,2019,clean vehicle,32251,ohio
+18300,chevrolet,2019,clean vehicle,25809,texas
+11760,ford,2017,clean vehicle,30553,texas
+31700,dodge,2019,clean vehicle,26549,ohio
+25,dodge,2007,salvage insurance,160528,minnesota
+0,ford,2000,salvage insurance,124969,oklahoma
+7340,ford,2019,clean vehicle,15854,florida
+8200,hyundai,2017,clean vehicle,56690,connecticut
+3000,kia,2013,clean vehicle,97142,missouri
+6530,jeep,2019,clean vehicle,10185,georgia
+0,mazda,2009,salvage insurance,117541,indiana
+12700,kia,2019,clean vehicle,23514,california
+13800,kia,2017,clean vehicle,86959,north carolina
+0,chevrolet,1998,salvage insurance,258631,texas
+725,ford,2017,salvage insurance,67279,virginia
+7400,ford,2019,clean vehicle,16482,florida
+9800,hyundai,2017,clean vehicle,35687,connecticut
+0,honda,2003,salvage insurance,152608,arkansas
+4400,jeep,2019,clean vehicle,17911,georgia
+10330,infiniti,2019,clean vehicle,21278,florida
+1800,chevrolet,2011,salvage insurance,47269,arkansas
+50,chevrolet,2008,salvage insurance,172102,texas
+720,ford,2006,clean vehicle,26914,florida
+22800,ford,2017,clean vehicle,67217,michigan
+2500,ford,2017,salvage insurance,78698,california
+0,ford,2003,salvage insurance,246065,kansas
+9190,gmc,2017,clean vehicle,41961,virginia
+10900,jeep,2019,clean vehicle,13273,michigan
+10400,infiniti,2019,clean vehicle,31713,florida
+0,chevrolet,2004,salvage insurance,0,wyoming
+0,chevrolet,2003,salvage insurance,194673,texas
+7320,chevrolet,2008,clean vehicle,325611,florida
+22809,ford,2017,clean vehicle,50732,michigan
+0,ford,1998,salvage insurance,186855,california
+0,ford,2013,salvage insurance,94004,minnesota
+5520,gmc,2017,clean vehicle,52904,virginia
+10900,jeep,2019,clean vehicle,14195,michigan
+6330,jeep,2019,clean vehicle,43965,florida
+0,chevrolet,2009,salvage insurance,117059,colorado
+25,chevrolet,2010,salvage insurance,149189,colorado
+2320,dodge,2007,clean vehicle,112182,florida
+23702,ford,2017,clean vehicle,49024,michigan
+0,ford,1994,salvage insurance,0,california
+0,ford,1997,salvage insurance,203297,minnesota
+5520,gmc,2017,clean vehicle,35821,virginia
+4050,heartland,2018,clean vehicle,1,pennsylvania
+14810,infiniti,2019,clean vehicle,32611,florida
+25,chevrolet,2011,salvage insurance,105244,colorado
+2960,chrysler,2008,clean vehicle,164048,florida
+24800,ford,2017,clean vehicle,46955,michigan
+0,ford,1996,salvage insurance,296860,california
+0,ford,2006,salvage insurance,203158,illinois
+6270,gmc,2017,clean vehicle,70443,virginia
+1880,heartland,2012,clean vehicle,1,pennsylvania
+10050,infiniti,2019,clean vehicle,18229,florida
+225,chevrolet,2014,salvage insurance,87673,colorado
+26900,chevrolet,2018,clean vehicle,42941,missouri
+1420,chrysler,2007,clean vehicle,104405,florida
+27003,ford,2017,clean vehicle,57186,michigan
+0,ford,2002,salvage insurance,214800,south carolina
+350,ford,2004,salvage insurance,236980,illinois
+5600,gmc,2017,clean vehicle,59808,virginia
+6680,heartland,2011,clean vehicle,1,pennsylvania
+10120,infiniti,2019,clean vehicle,20681,florida
+0,chevrolet,2010,salvage insurance,137422,colorado
+3920,ford,2015,clean vehicle,102700,georgia
+23100,ford,2017,clean vehicle,53270,michigan
+0,gmc,2004,salvage insurance,235348,south carolina
+5630,gmc,2017,clean vehicle,27195,virginia
+0,heartland,2009,clean vehicle,1,pennsylvania
+2800,jaguar,2019,clean vehicle,20849,florida
+0,chevrolet,2008,salvage insurance,159266,california
+8850,ford,2015,clean vehicle,143818,georgia
+18712,ford,2017,clean vehicle,67347,michigan
+0,ford,2009,salvage insurance,180364,tennessee
+0,ford,2009,salvage insurance,184889,illinois
+6300,gmc,2017,clean vehicle,117400,virginia
+2220,heartland,2010,clean vehicle,1,pennsylvania
+6930,jeep,2019,clean vehicle,47798,florida
+25,chevrolet,2008,salvage insurance,130623,california
+3440,ford,2015,clean vehicle,124542,georgia
+50412,ford,2017,clean vehicle,47129,michigan
+25,ford,1994,salvage insurance,206162,georgia
+950,ford,2001,salvage insurance,229886,illinois
+9270,gmc,2017,clean vehicle,19490,virginia
+11380,jeep,2019,clean vehicle,12038,michigan
+5350,hyundai,2019,clean vehicle,43536,florida
+2725,chevrolet,2004,salvage insurance,308451,south carolina
+3790,ford,2015,clean vehicle,100893,georgia
+40514,ford,2017,clean vehicle,90304,michigan
+0,ford,1997,salvage insurance,146912,wisconsin
+0,ford,1998,salvage insurance,131367,illinois
+9190,gmc,2017,clean vehicle,31394,virginia
+10330,infiniti,2019,clean vehicle,25933,florida
+1000,acura,2008,salvage insurance,118250,michigan
+2925,bmw,2013,salvage insurance,46060,florida
+3830,ford,2015,clean vehicle,50593,georgia
+43402,ford,2017,clean vehicle,62387,michigan
+1025,gmc,2009,salvage insurance,169634,michigan
+17200,honda,2016,clean vehicle,72527,new jersey
+54680,harley-davidson,2016,clean vehicle,9502,virginia
+6940,honda,2010,clean vehicle,217290,pennsylvania
+13080,infiniti,2019,clean vehicle,17243,florida
+25,chevrolet,2007,salvage insurance,194903,virginia
+10630,ford,2015,clean vehicle,82899,georgia
+43009,ford,2017,clean vehicle,76418,michigan
+25,gmc,2003,salvage insurance,138441,michigan
+4600,ford,2006,salvage insurance,240740,mississippi
+4950,honda,2016,clean vehicle,71404,virginia
+3760,hyundai,2019,clean vehicle,30382,florida
+3900,acura,2009,clean vehicle,179389,texas
+0,cadillac,2000,salvage insurance,105169,virginia
+3830,ford,2015,clean vehicle,82534,georgia
+53500,ford,2017,clean vehicle,55732,michigan
+25,ford,2010,salvage insurance,198596,michigan
+25,ford,1998,salvage insurance,300021,arkansas
+6240,honda,2015,clean vehicle,83623,virginia
+4150,jeep,2014,clean vehicle,108895,new york
+25,jeep,1999,salvage insurance,226972,florida
+61200,bmw,2020,clean vehicle,7509,california
+0,buick,2006,salvage insurance,137464,virginia
+13500,bmw,2014,clean vehicle,33542,new jersey
+6490,ford,2015,clean vehicle,74754,georgia
+51502,ford,2017,clean vehicle,27661,michigan
+250,ford,2010,salvage insurance,115241,michigan
+25,ford,1984,salvage insurance,41577,arkansas
+8160,honda,2015,clean vehicle,109027,virginia
+7770,jeep,2014,clean vehicle,72732,new york
+200,jeep,2001,salvage insurance,126400,maryland
+25,audi,2008,salvage insurance,177422,texas
+0,chevrolet,1995,salvage insurance,274706,arizona
+1825,bmw,2008,salvage insurance,77984,georgia
+39800,bmw,2017,clean vehicle,23177,california
+9210,ford,2015,clean vehicle,26911,georgia
+58500,ford,2019,clean vehicle,21527,washington
+125,ford,2014,salvage insurance,56461,michigan
+3960,honda,2015,clean vehicle,95128,virginia
+5998,hyundai,2014,clean vehicle,122975,new york
+3700,honda,2014,clean vehicle,162824,new york
+0,kia,2008,salvage insurance,148463,indiana
+0,audi,2005,salvage insurance,181896,california
+0,bmw,2000,salvage insurance,216657,utah
+5000,gmc,2012,clean vehicle,140339,utah
+15050,infiniti,2019,clean vehicle,26786,texas
+3960,hyundai,2019,clean vehicle,35623,ohio
+36300,lincoln,2019,clean vehicle,14541,california
+55600,lexus,2020,clean vehicle,8186,florida
+2630,nissan,2018,clean vehicle,36739,california
+5690,nissan,2017,clean vehicle,42616,new jersey
+19500,audi,2017,clean vehicle,65833,texas
+450,chevrolet,2008,salvage insurance,123515,minnesota
+20400,cadillac,2015,clean vehicle,36122,wisconsin
+4320,chevrolet,2011,clean vehicle,88359,florida
+33001,ford,2017,clean vehicle,35905,michigan
+10000,ford,2017,salvage insurance,35747,arkansas
+0,ford,2004,salvage insurance,167011,maryland
+5790,gmc,2012,clean vehicle,105020,utah
+14750,infiniti,2019,clean vehicle,11047,texas
+4010,hyundai,2019,clean vehicle,31233,ohio
+40000,mercedes-benz,2019,clean vehicle,19427,california
+13000,kia,2017,clean vehicle,71991,new jersey
+3550,nissan,2018,clean vehicle,29043,california
+3040,nissan,2017,clean vehicle,36064,new jersey
+0,chevrolet,2008,salvage insurance,270080,illinois
+36400,audi,2015,clean vehicle,47213,wisconsin
+4480,ford,2011,clean vehicle,116480,florida
+31003,ford,2017,clean vehicle,72084,michigan
+75,ford,2001,salvage insurance,295780,arkansas
+8850,gmc,2011,clean vehicle,148035,utah
+14750,infiniti,2019,clean vehicle,11396,texas
+4690,hyundai,2019,clean vehicle,33785,ohio
+23000,land,2018,clean vehicle,20103,california
+46900,land,2018,clean vehicle,32387,florida
+10740,mercedes-benz,2018,clean vehicle,48140,california
+3160,nissan,2017,clean vehicle,34861,new jersey
+0,chevrolet,2006,salvage insurance,268040,texas
+3450,chrysler,2011,clean vehicle,114119,florida
+27102,ford,2017,clean vehicle,34165,michigan
+500,gmc,2018,salvage insurance,27442,arkansas
+5100,gmc,2011,clean vehicle,144792,utah
+15010,infiniti,2019,clean vehicle,11394,texas
+5800,jeep,2019,clean vehicle,30546,ohio
+23200,land,2018,clean vehicle,23745,california
+8000,hyundai,2015,clean vehicle,88274,pennsylvania
+3390,nissan,2018,clean vehicle,38349,california
+3140,nissan,2017,clean vehicle,30142,new jersey
+25,chevrolet,2007,salvage insurance,267834,texas
+15000,bmw,2014,clean vehicle,44730,illinois
+10440,chevrolet,2011,clean vehicle,92476,florida
+23911,ford,2017,clean vehicle,25698,michigan
+25,ford,2010,salvage insurance,155242,oklahoma
+21400,gmc,2018,clean vehicle,54332,new jersey
+5380,gmc,2011,clean vehicle,119215,utah
+11000,jeep,2019,clean vehicle,8930,michigan
+4950,jeep,2019,clean vehicle,46985,ohio
+22500,land,2018,clean vehicle,30220,california
+30300,maserati,2017,clean vehicle,37021,florida
+2630,nissan,2018,clean vehicle,43152,california
+3140,nissan,2017,clean vehicle,34318,new jersey
+2300,chevrolet,2011,salvage insurance,88287,arkansas
+4310,chevrolet,2011,clean vehicle,105486,florida
+26012,ford,2017,clean vehicle,19850,michigan
+75,ford,2014,salvage insurance,116535,oklahoma
+48500,gmc,2019,clean vehicle,15777,pennsylvania
+3330,gmc,2009,clean vehicle,87448,utah
+11200,jeep,2019,clean vehicle,8395,michigan
+4730,hyundai,2019,clean vehicle,30121,ohio
+24900,mercedes-benz,2018,clean vehicle,33687,california
+29400,mercedes-benz,2017,clean vehicle,37561,florida
+8350,nissan,2018,clean vehicle,32256,california
+475,peterbilt,2012,salvage insurance,902041,florida
+3210,nissan,2017,clean vehicle,25255,new jersey
+25,chevrolet,2006,salvage insurance,165327,arkansas
+4200,chevrolet,2006,clean vehicle,118009,wisconsin
+8430,chevrolet,2011,clean vehicle,114547,florida
+25503,ford,2017,clean vehicle,18647,michigan
+0,ford,1996,salvage insurance,252588,oklahoma
+26000,gmc,2019,clean vehicle,16669,pennsylvania
+3900,honda,2017,clean vehicle,47970,virginia
+11200,jeep,2019,clean vehicle,12905,michigan
+8610,jeep,2019,clean vehicle,22123,ohio
+28000,mercedes-benz,2018,clean vehicle,40780,california
+84900,mercedes-benz,2017,clean vehicle,25302,florida
+10840,lexus,2017,clean vehicle,36596,california
+100,peterbilt,2012,salvage insurance,0,florida
+11050,ram,2017,clean vehicle,30421,new jersey
+0,chevrolet,2012,salvage insurance,134938,oklahoma
+1000,chevrolet,2005,clean vehicle,135675,wisconsin
+3570,dodge,2015,clean vehicle,17355,georgia
+25001,ford,2017,clean vehicle,27773,michigan
+0,ford,2010,salvage insurance,86841,oklahoma
+5630,gmc,2017,clean vehicle,58366,virginia
+11100,jeep,2019,clean vehicle,11229,michigan
+4650,hyundai,2019,clean vehicle,27492,ohio
+0,lincoln,2005,salvage insurance,89705,minnesota
+3820,nissan,2016,clean vehicle,41654,california
+0,peterbilt,2009,salvage insurance,982486,florida
+2900,nissan,2017,clean vehicle,31954,new jersey
+50,chevrolet,2008,salvage insurance,172102,texas
+5100,chevrolet,2004,clean vehicle,173321,wisconsin
+4700,dodge,2015,clean vehicle,93423,georgia
+29502,ford,2017,clean vehicle,14053,michigan
+0,ford,2008,salvage insurance,145483,oklahoma
+6160,honda,2017,clean vehicle,25956,virginia
+10910,jeep,2019,clean vehicle,12253,michigan
+3440,hyundai,2019,clean vehicle,34895,ohio
+16000,mazda,2016,clean vehicle,47753,florida
+3810,kia,2016,clean vehicle,39408,california
+1025,peterbilt,2010,salvage insurance,1017936,georgia
+3020,nissan,2017,clean vehicle,33599,new jersey
+0,chevrolet,2003,salvage insurance,194673,texas
+2000,chevrolet,2003,clean vehicle,507985,wisconsin
+3870,ford,2010,clean vehicle,185983,florida
+24811,ford,2017,clean vehicle,28464,michigan
+75,ford,2007,salvage insurance,154989,oklahoma
+5420,honda,2017,clean vehicle,16702,virginia
+11100,jeep,2019,clean vehicle,11449,michigan
+4750,hyundai,2019,clean vehicle,25847,ohio
+17900,mercedes-benz,2015,clean vehicle,49772,florida
+3800,nissan,2015,clean vehicle,83915,california
+3160,nissan,2017,clean vehicle,40306,new jersey
+25,chevrolet,2010,salvage insurance,149189,colorado
+1200,chevrolet,2001,clean vehicle,149543,wisconsin
+6470,chevrolet,2010,clean vehicle,69622,florida
+26400,ford,2017,clean vehicle,36295,michigan
+0,gmc,1993,salvage insurance,0,colorado
+32500,gmc,2018,clean vehicle,14856,pennsylvania
+6900,honda,2017,clean vehicle,44129,minnesota
+11030,jeep,2019,clean vehicle,10861,michigan
+3460,hyundai,2012,clean vehicle,142106,mississippi
+18000,mercedes-benz,2015,clean vehicle,82411,florida
+3250,hyundai,2015,clean vehicle,111612,california
+3210,nissan,2017,clean vehicle,35251,new jersey
+13200,chevrolet,2017,clean vehicle,50408,pennsylvania
+27705,ford,2019,clean vehicle,15630,michigan
+7200,chevrolet,2017,clean vehicle,53273,pennsylvania
+28714,ford,2019,clean vehicle,14786,michigan
+11200,chevrolet,2017,clean vehicle,85315,pennsylvania
+27502,ford,2019,clean vehicle,16146,michigan
+11900,chevrolet,2017,clean vehicle,76211,pennsylvania
+29314,ford,2019,clean vehicle,15265,michigan
+11200,chevrolet,2017,clean vehicle,79965,pennsylvania
+27002,ford,2019,clean vehicle,16059,michigan
+13200,chevrolet,2017,clean vehicle,62739,pennsylvania
+28214,ford,2019,clean vehicle,15569,michigan
+12700,chevrolet,2017,clean vehicle,58932,pennsylvania
+29900,ford,2019,clean vehicle,17488,michigan
+12700,chevrolet,2017,clean vehicle,60733,pennsylvania
+27202,ford,2019,clean vehicle,18550,michigan
+13500,chevrolet,2018,clean vehicle,53194,new jersey
+27705,ford,2019,clean vehicle,17644,michigan
+14700,chevrolet,2016,clean vehicle,34454,pennsylvania
+29900,ford,2019,clean vehicle,17684,michigan
+4500,chevrolet,2015,clean vehicle,83279,pennsylvania
+27705,ford,2019,clean vehicle,16600,michigan
+8000,chevrolet,2015,clean vehicle,107971,pennsylvania
+25511,ford,2019,clean vehicle,17801,michigan
+7700,chevrolet,2015,clean vehicle,94150,pennsylvania
+29900,ford,2019,clean vehicle,17159,michigan
+7200,chevrolet,2015,clean vehicle,80711,pennsylvania
+27502,ford,2019,clean vehicle,17983,michigan
+4500,chevrolet,2013,clean vehicle,119981,pennsylvania
+27402,ford,2019,clean vehicle,17851,michigan
+1500,chevrolet,2013,clean vehicle,66079,pennsylvania
+26602,ford,2019,clean vehicle,18174,michigan
+10200,chevrolet,2019,clean vehicle,7654,illinois
+29900,ford,2019,clean vehicle,18759,michigan
+14000,chevrolet,2019,clean vehicle,11564,illinois
+28500,ford,2019,clean vehicle,18901,michigan
+8000,chevrolet,2016,clean vehicle,86541,florida
+29809,ford,2019,clean vehicle,21157,michigan
+36900,chevrolet,2015,clean vehicle,29937,florida
+26902,ford,2019,clean vehicle,23964,michigan
+10950,chevrolet,2015,clean vehicle,58504,florida
+27402,ford,2019,clean vehicle,20154,michigan
+16900,acura,2014,clean vehicle,63500,florida
+25600,ford,2019,clean vehicle,23294,michigan
+29700,bmw,2016,clean vehicle,24293,texas
+27702,ford,2019,clean vehicle,20343,michigan
+13500,buick,2016,clean vehicle,19655,texas
+27102,ford,2019,clean vehicle,19100,michigan
+27102,ford,2019,clean vehicle,20014,michigan
+25811,ford,2019,clean vehicle,21774,michigan
+26602,ford,2019,clean vehicle,21201,michigan
+27102,ford,2019,clean vehicle,21766,michigan
+37500,buick,2019,clean vehicle,12406,wisconsin
+26211,ford,2019,clean vehicle,17977,michigan
+24205,ford,2019,clean vehicle,22805,michigan
+37500,cadillac,2019,clean vehicle,16013,wisconsin
+27111,ford,2019,clean vehicle,14382,michigan
+27411,ford,2019,clean vehicle,9660,michigan
+27302,ford,2019,clean vehicle,18969,michigan
+27202,ford,2019,clean vehicle,24730,michigan
+26311,ford,2019,clean vehicle,15847,michigan
+26602,ford,2019,clean vehicle,25009,michigan
+33500,bmw,2017,clean vehicle,22115,wisconsin
+27511,ford,2019,clean vehicle,11836,michigan
+21500,buick,2017,clean vehicle,23765,wisconsin
+27200,ford,2019,clean vehicle,25508,michigan
+26511,ford,2019,clean vehicle,18196,michigan
+24002,ford,2019,clean vehicle,16106,michigan
+21500,buick,2017,clean vehicle,14907,wisconsin
+18511,ford,2019,clean vehicle,12735,michigan
+14000,kia,2017,clean vehicle,53424,connecticut
+29000,buick,2017,clean vehicle,17940,illinois
+23402,ford,2019,clean vehicle,17417,michigan
+13300,kia,2017,clean vehicle,37125,connecticut
+19700,bmw,2017,clean vehicle,61428,wisconsin
+23211,ford,2019,clean vehicle,17025,michigan
+15500,kia,2017,clean vehicle,37668,connecticut
+18111,ford,2019,clean vehicle,15805,michigan
+21500,kia,2017,clean vehicle,43761,connecticut
+25511,ford,2019,clean vehicle,11342,michigan
+17700,chevrolet,2017,clean vehicle,35664,wisconsin
+28000,chevrolet,2017,clean vehicle,12780,illinois
+14000,chevrolet,2017,clean vehicle,38458,wisconsin
+21700,chevrolet,2017,clean vehicle,34420,wisconsin
+13500,chevrolet,2017,clean vehicle,46497,wisconsin
+35500,chevrolet,2017,clean vehicle,21268,wisconsin
+29500,chevrolet,2017,clean vehicle,31029,wisconsin
+25300,chevrolet,2017,clean vehicle,40878,wisconsin
+21500,chevrolet,2016,clean vehicle,20270,new jersey
+25900,chevrolet,2016,clean vehicle,32984,wisconsin
+35300,chevrolet,2016,clean vehicle,75506,wisconsin
+13500,chevrolet,2016,clean vehicle,39951,wisconsin
+62000,chevrolet,2016,clean vehicle,19403,illinois
+46000,chevrolet,2016,clean vehicle,4445,illinois
+9000,chevrolet,2016,clean vehicle,67527,wisconsin
+25900,chevrolet,2016,clean vehicle,33588,wisconsin
+25800,chevrolet,2016,clean vehicle,10103,wisconsin
+17000,chevrolet,2016,clean vehicle,26474,wisconsin
+12800,chevrolet,2016,clean vehicle,40253,wisconsin
+47400,chevrolet,2016,clean vehicle,39624,wisconsin
+24400,chevrolet,2016,clean vehicle,48705,wisconsin
+17100,chevrolet,2016,clean vehicle,19659,wisconsin
+7400,chevrolet,2015,clean vehicle,91299,wisconsin
+33100,chevrolet,2015,clean vehicle,81614,wisconsin
+22000,chevrolet,2020,clean vehicle,179,california
+35000,chevrolet,2019,clean vehicle,5523,california
+16500,chevrolet,2019,clean vehicle,29841,california
+35300,chevrolet,2019,clean vehicle,8516,california
+26900,chevrolet,2018,clean vehicle,42941,missouri
+11600,chevrolet,2017,clean vehicle,27498,california
+28100,chevrolet,2017,clean vehicle,31141,california
+27700,chevrolet,2017,clean vehicle,20784,california
+17700,chevrolet,2017,clean vehicle,52667,california
+16600,chevrolet,2017,clean vehicle,26003,california
+63200,chevrolet,2016,clean vehicle,4266,california
+36800,chevrolet,2015,clean vehicle,32332,california
+19500,chevrolet,2018,clean vehicle,44333,texas
+38800,chevrolet,2019,clean vehicle,36198,oklahoma
+37500,chevrolet,2019,clean vehicle,33331,oklahoma
+35000,chevrolet,2019,clean vehicle,43082,oklahoma
+31100,chevrolet,2019,clean vehicle,24561,oklahoma
+22600,chevrolet,2019,clean vehicle,13485,oklahoma
+22400,chevrolet,2019,clean vehicle,15524,oklahoma
+22700,chevrolet,2019,clean vehicle,8996,oklahoma
+13700,chevrolet,2019,clean vehicle,47282,oklahoma
+37100,chevrolet,2019,clean vehicle,34470,oklahoma
+18500,chevrolet,2018,clean vehicle,87264,oregon
+18300,chevrolet,2017,clean vehicle,114344,oregon
+19000,chevrolet,2017,clean vehicle,111635,oregon
+18500,chevrolet,2017,clean vehicle,103955,oregon
+22500,chevrolet,2016,clean vehicle,66640,oregon
+14500,chevrolet,2014,clean vehicle,122018,oregon
+32800,chevrolet,2018,clean vehicle,46915,oklahoma
+12300,chevrolet,2018,clean vehicle,53599,oklahoma
+19600,chevrolet,2018,clean vehicle,41672,oklahoma
+13600,chevrolet,2018,clean vehicle,36047,oklahoma
+7200,chevrolet,2018,clean vehicle,42561,oklahoma
+19900,chevrolet,2018,clean vehicle,40345,oklahoma
+13000,chevrolet,2018,clean vehicle,41751,oklahoma
+19700,chevrolet,2016,clean vehicle,27593,oklahoma
+9400,chevrolet,2017,clean vehicle,24009,oklahoma
+23800,chevrolet,2017,clean vehicle,85697,oklahoma
+17700,chevrolet,2019,clean vehicle,25223,new york
+17000,chevrolet,2015,clean vehicle,27927,oklahoma
+14000,chevrolet,2014,clean vehicle,135127,florida
+32100,chevrolet,2018,clean vehicle,55532,pennsylvania
+33100,chevrolet,2019,clean vehicle,72172,pennsylvania
+31600,chevrolet,2018,clean vehicle,57751,pennsylvania
+5100,chevrolet,2013,clean vehicle,96314,pennsylvania
+4100,chevrolet,2013,clean vehicle,89152,pennsylvania
+7200,chevrolet,2014,clean vehicle,114660,texas
+12800,chevrolet,2014,clean vehicle,177322,texas
+46800,chevrolet,2019,clean vehicle,36423,nebraska
+21800,chevrolet,2019,clean vehicle,23759,missouri
+3000,chevrolet,2013,clean vehicle,120667,texas
+22500,chevrolet,2017,clean vehicle,65344,indiana
+35300,chevrolet,2018,clean vehicle,51347,missouri
+16500,chevrolet,2017,clean vehicle,52322,oklahoma
+33000,chevrolet,2017,clean vehicle,67620,missouri
+31500,chevrolet,2017,clean vehicle,59965,missouri
+34500,chevrolet,2017,clean vehicle,28739,missouri
+8000,chevrolet,2016,clean vehicle,77429,west virginia
+25000,chevrolet,2017,clean vehicle,20847,west virginia
+10700,chevrolet,2016,clean vehicle,44280,west virginia
+13400,chevrolet,2016,clean vehicle,86031,west virginia
+16500,chevrolet,2019,clean vehicle,7622,west virginia
+34000,chevrolet,2019,clean vehicle,8067,west virginia
+14100,chevrolet,2018,clean vehicle,16502,west virginia
+38600,chevrolet,2019,clean vehicle,20681,west virginia
+9100,chevrolet,2016,clean vehicle,54655,missouri
+8600,chevrolet,2016,clean vehicle,57825,missouri
+22000,chevrolet,2016,clean vehicle,58856,oklahoma
+8900,chevrolet,2015,clean vehicle,85072,west virginia
+15500,chevrolet,2015,clean vehicle,79506,west virginia
+3300,chevrolet,2015,clean vehicle,85301,west virginia
+29000,chevrolet,2015,clean vehicle,69377,missouri
+17300,chevrolet,2020,clean vehicle,15577,nevada
+30500,chevrolet,2020,clean vehicle,23470,nevada
+25000,chevrolet,2020,clean vehicle,18715,nevada
+2800,chevrolet,2012,clean vehicle,61258,illinois
+3300,chevrolet,2012,clean vehicle,131791,illinois
+36400,chevrolet,2019,clean vehicle,35705,nevada
+34800,chevrolet,2019,clean vehicle,48982,nevada
+20700,chevrolet,2019,clean vehicle,33745,nevada
+32200,chevrolet,2019,clean vehicle,42267,nevada
+35300,chevrolet,2019,clean vehicle,46863,nevada
+33500,chevrolet,2019,clean vehicle,36443,nevada
+13700,chevrolet,2019,clean vehicle,14939,nevada
+15900,chevrolet,2019,clean vehicle,22026,nevada
+33200,chevrolet,2019,clean vehicle,38278,nevada
+35500,chevrolet,2019,clean vehicle,46149,nevada
+29800,chevrolet,2018,clean vehicle,48427,nevada
+29800,chevrolet,2018,clean vehicle,48807,nevada
+29500,chevrolet,2018,clean vehicle,52618,nevada
+30300,chevrolet,2018,clean vehicle,46494,nevada
+24300,chevrolet,2018,clean vehicle,56296,new york
+29800,chevrolet,2017,clean vehicle,33909,nevada
+29800,chevrolet,2017,clean vehicle,33028,nevada
+27500,chevrolet,2016,clean vehicle,44653,nevada
+10800,chevrolet,2017,clean vehicle,80516,new jersey
+11500,chevrolet,2017,clean vehicle,105151,new jersey
+10400,chevrolet,2017,clean vehicle,78368,new jersey
+11400,chevrolet,2018,clean vehicle,78956,florida
+11400,chevrolet,2018,clean vehicle,88564,florida
+8000,chevrolet,2015,clean vehicle,78800,nevada
+3000,chevrolet,2012,clean vehicle,111856,california
+25000,chevrolet,2015,clean vehicle,80946,nevada
+12300,chevrolet,2017,clean vehicle,83168,new york
+14100,chevrolet,2017,clean vehicle,58606,new york
+9000,chevrolet,2014,clean vehicle,82020,nevada
+4200,chevrolet,2014,clean vehicle,102500,nevada
+22500,chevrolet,2019,clean vehicle,8150,texas
+22600,chevrolet,2019,clean vehicle,6159,texas
+22600,chevrolet,2019,clean vehicle,5938,texas
+22500,chevrolet,2019,clean vehicle,9019,texas
+10200,chevrolet,2018,clean vehicle,45836,texas
+42700,chevrolet,2016,clean vehicle,60215,texas
+21200,chevrolet,2015,clean vehicle,125507,texas
+22700,chevrolet,2016,clean vehicle,90944,texas
+22000,chevrolet,2015,clean vehicle,82785,texas
+9600,chevrolet,2014,clean vehicle,150525,texas
+10500,chevrolet,2013,clean vehicle,112267,texas
+6700,chevrolet,2013,clean vehicle,139394,texas
+14200,chevrolet,2013,clean vehicle,82543,texas
+15500,chevrolet,2019,clean vehicle,13532,florida
+35100,chevrolet,2018,clean vehicle,14751,kansas
+26300,chevrolet,2018,clean vehicle,11150,kansas
+15700,chevrolet,2016,clean vehicle,91248,new jersey
+17600,chevrolet,2016,clean vehicle,65336,new jersey
+18600,chevrolet,2016,clean vehicle,48974,new jersey
+19100,chevrolet,2016,clean vehicle,40011,new jersey
+15200,chevrolet,2019,clean vehicle,37444,north carolina
+16100,chevrolet,2019,clean vehicle,43199,north carolina
+14800,chevrolet,2019,clean vehicle,43589,north carolina
+16700,chevrolet,2019,clean vehicle,32870,north carolina
+15300,chevrolet,2019,clean vehicle,38826,north carolina
+16500,chevrolet,2019,clean vehicle,33739,north carolina
+19600,chevrolet,2019,clean vehicle,35309,north carolina
+15200,chevrolet,2019,clean vehicle,32248,north carolina
+15000,chevrolet,2019,clean vehicle,36165,north carolina
+15500,chevrolet,2019,clean vehicle,29922,north carolina
+15700,chevrolet,2019,clean vehicle,26848,north carolina
+14800,chevrolet,2019,clean vehicle,41163,north carolina
+9200,chevrolet,2017,clean vehicle,32856,north carolina
+8200,chevrolet,2017,clean vehicle,100315,north carolina
+11400,chevrolet,2013,clean vehicle,91638,new jersey
+6500,chevrolet,2015,clean vehicle,83173,north carolina
+11500,chevrolet,2014,clean vehicle,94356,north carolina
+23800,chevrolet,2015,clean vehicle,85792,florida
+8900,chevrolet,2014,clean vehicle,129068,florida
+28300,chevrolet,2019,clean vehicle,27665,indiana
+27300,chevrolet,2019,clean vehicle,25427,indiana
+3500,chevrolet,2013,clean vehicle,78198,new jersey
+28300,chevrolet,2020,clean vehicle,13886,indiana
+18300,chevrolet,2019,clean vehicle,34538,indiana
+22500,dodge,2018,clean vehicle,20575,wisconsin
+22500,dodge,2018,clean vehicle,26026,wisconsin
+8300,dodge,2012,clean vehicle,99015,wisconsin
+16500,dodge,2019,clean vehicle,27327,nebraska
+14500,dodge,2019,clean vehicle,30229,nebraska
+30000,dodge,2019,clean vehicle,43294,ontario
+30000,dodge,2019,clean vehicle,54309,ontario
+30000,dodge,2019,clean vehicle,52822,ontario
+30000,dodge,2019,clean vehicle,45554,ontario
+30000,dodge,2019,clean vehicle,37538,ontario
+29500,dodge,2019,clean vehicle,35153,ontario
+21600,dodge,2019,clean vehicle,23783,washington
+22600,dodge,2019,clean vehicle,30759,washington
+16300,dodge,2019,clean vehicle,38922,washington
+8600,dodge,2012,clean vehicle,165836,washington
+28800,dodge,2019,clean vehicle,19235,texas
+22100,dodge,2019,clean vehicle,9445,texas
+14300,dodge,2018,clean vehicle,19164,north carolina
+13700,dodge,2018,clean vehicle,54106,north carolina
+29500,dodge,2017,clean vehicle,32051,arizona
+18500,dodge,2017,clean vehicle,14870,texas
+19000,dodge,2016,clean vehicle,32294,colorado
+43400,dodge,2015,clean vehicle,7250,arizona
+46000,dodge,2015,clean vehicle,10145,arizona
+12500,dodge,2018,clean vehicle,59924,texas
+13900,dodge,2017,clean vehicle,21304,florida
+13000,dodge,2018,clean vehicle,52079,california
+13000,dodge,2018,clean vehicle,54960,california
+3000,dodge,2013,clean vehicle,80099,texas
+17500,dodge,2019,clean vehicle,23987,florida
+7900,dodge,2017,clean vehicle,84144,california
+8900,dodge,2014,clean vehicle,85639,florida
+11500,dodge,2018,clean vehicle,50193,pennsylvania
+6500,dodge,2017,clean vehicle,74392,pennsylvania
+8000,dodge,2017,clean vehicle,76117,pennsylvania
+18700,dodge,2018,clean vehicle,36358,new jersey
+8350,dodge,2017,clean vehicle,90685,florida
+27900,dodge,2017,clean vehicle,54141,florida
+14500,dodge,2016,clean vehicle,82240,pennsylvania
+6200,dodge,2016,clean vehicle,66167,pennsylvania
+7500,dodge,2012,clean vehicle,144220,pennsylvania
+20200,dodge,2019,clean vehicle,24722,illinois
+29300,dodge,2019,clean vehicle,41198,illinois
+31000,dodge,2019,clean vehicle,26353,illinois
+32400,dodge,2019,clean vehicle,28280,illinois
+5800,dodge,2012,clean vehicle,130120,minnesota
+21500,dodge,2019,clean vehicle,15340,texas
+23100,dodge,2018,clean vehicle,12265,michigan
+4500,dodge,2014,clean vehicle,94872,texas
+24800,dodge,2018,clean vehicle,17946,michigan
+23000,dodge,2018,clean vehicle,26996,michigan
+26900,dodge,2019,clean vehicle,5775,wisconsin
+21500,dodge,2018,clean vehicle,6748,wisconsin
+15700,dodge,2018,clean vehicle,38128,wisconsin
+15200,dodge,2018,clean vehicle,41636,wisconsin
+23300,dodge,2018,clean vehicle,5359,wisconsin
+6100,dodge,2015,clean vehicle,70296,minnesota
+20000,dodge,2017,clean vehicle,11346,wisconsin
+53000,dodge,2017,clean vehicle,7415,illinois
+3000,dodge,2013,clean vehicle,107593,minnesota
+18200,dodge,2016,clean vehicle,50639,new jersey
+21800,dodge,2019,clean vehicle,6530,arizona
+52000,dodge,2016,clean vehicle,17432,illinois
+19000,dodge,2019,clean vehicle,19636,arizona
+25000,dodge,2016,clean vehicle,41748,illinois
+36000,dodge,2016,clean vehicle,13162,illinois
+17000,dodge,2019,clean vehicle,32937,georgia
+25300,dodge,2015,clean vehicle,23095,wisconsin
+14900,dodge,2017,clean vehicle,34432,wisconsin
+15000,dodge,2017,clean vehicle,48162,wisconsin
+12995,dodge,2014,clean vehicle,68310,massachusetts
+17750,dodge,2014,clean vehicle,48000,massachusetts
+10295,dodge,2014,clean vehicle,105962,pennsylvania
+16995,dodge,2014,clean vehicle,96575,connecticut
+25000,dodge,2014,clean vehicle,13239,new york
+23995,dodge,2014,clean vehicle,24934,rhode island
+14900,dodge,2014,clean vehicle,46859,new jersey
+15810,dodge,2014,clean vehicle,44468,new york
+20227,dodge,2014,clean vehicle,62230,new york
+20999,dodge,2014,clean vehicle,37082,new york
+22499,dodge,2014,clean vehicle,23964,new jersey
+23495,dodge,2014,clean vehicle,11204,new york
+25250,dodge,2014,clean vehicle,7608,new york
+15322,dodge,2014,clean vehicle,49982,new jersey
+21232,dodge,2019,clean vehicle,4950,texas
+5800,dodge,2013,clean vehicle,111628,wisconsin
+29000,dodge,2012,clean vehicle,15927,illinois
+17000,dodge,2018,clean vehicle,36299,new jersey
+13800,dodge,2018,clean vehicle,28469,florida
+30000,dodge,2019,clean vehicle,29086,missouri
+14800,dodge,2017,clean vehicle,35991,florida
+8500,dodge,2017,clean vehicle,62224,missouri
+9800,dodge,2013,clean vehicle,86500,missouri
+4200,dodge,2014,clean vehicle,144725,nevada
+2500,dodge,2013,salvage insurance,163260,tennessee
+28700,dodge,2018,clean vehicle,19636,california
+18500,dodge,2018,clean vehicle,34272,california
+17300,dodge,2018,clean vehicle,42909,california
+7100,dodge,2016,clean vehicle,55749,louisiana
+3250,dodge,2015,salvage insurance,89142,minnesota
+30700,dodge,2017,clean vehicle,20328,california
+3000,dodge,2012,clean vehicle,149332,missouri
+26500,dodge,2019,clean vehicle,28551,california
+20800,dodge,2019,clean vehicle,35098,california
+20800,dodge,2019,clean vehicle,35365,california
+5100,dodge,2015,clean vehicle,88398,california
+18900,dodge,2019,clean vehicle,27957,california
+24000,dodge,2019,clean vehicle,30161,california
+38800,dodge,2015,clean vehicle,26292,california
+24500,dodge,2019,clean vehicle,25780,california
+24500,dodge,2019,clean vehicle,25032,california
+6500,dodge,2016,clean vehicle,72248,new jersey
+24000,dodge,2019,clean vehicle,30630,california
+18000,dodge,2014,clean vehicle,86125,california
+24000,dodge,2019,clean vehicle,30408,california
+23500,dodge,2019,clean vehicle,35443,california
+4500,dodge,2014,clean vehicle,95377,california
+25900,dodge,2019,clean vehicle,32724,california
+13900,dodge,2019,clean vehicle,45089,california
+14200,dodge,2019,clean vehicle,35948,california
+15400,dodge,2019,clean vehicle,41601,california
+17500,dodge,2019,clean vehicle,26370,texas
+17500,dodge,2019,clean vehicle,18271,texas
+18000,dodge,2019,clean vehicle,9476,texas
+25200,dodge,2012,clean vehicle,80899,new jersey
+14100,dodge,2018,clean vehicle,57394,texas
+13300,dodge,2018,clean vehicle,42190,california
+16200,dodge,2019,clean vehicle,22591,oklahoma
+13300,dodge,2018,clean vehicle,48681,california
+13100,dodge,2018,clean vehicle,42621,california
+15500,dodge,2017,clean vehicle,27761,california
+4500,dodge,2013,salvage insurance,107768,california
+28400,dodge,2019,clean vehicle,14355,colorado
+17400,dodge,2019,clean vehicle,9467,colorado
+6000,dodge,2014,clean vehicle,122837,florida
+20700,dodge,2019,clean vehicle,18313,virginia
+20300,dodge,2019,clean vehicle,19506,virginia
+14000,dodge,2018,clean vehicle,14750,oklahoma
+22000,dodge,2019,clean vehicle,11280,virginia
+17200,dodge,2019,clean vehicle,13944,virginia
+15000,dodge,2016,clean vehicle,26922,oklahoma
+17500,dodge,2019,clean vehicle,12690,virginia
+1300,dodge,2013,salvage insurance,239822,michigan
+1750,dodge,2014,salvage insurance,74975,nevada
+16300,dodge,2019,clean vehicle,28289,florida
+15700,dodge,2019,clean vehicle,38041,florida
+10000,dodge,2017,clean vehicle,52386,florida
+23100,dodge,2019,clean vehicle,34391,florida
+14900,dodge,2019,clean vehicle,39515,florida
+16700,dodge,2019,clean vehicle,22074,virginia
+16300,dodge,2019,clean vehicle,28782,florida
+25800,dodge,2019,clean vehicle,30092,north carolina
+23800,dodge,2019,clean vehicle,26443,north carolina
+16800,dodge,2019,clean vehicle,28981,north carolina
+15500,dodge,2019,clean vehicle,32865,north carolina
+6000,dodge,2014,clean vehicle,117258,florida
+26900,dodge,2019,clean vehicle,16397,arizona
+16900,dodge,2019,clean vehicle,16176,arizona
+19500,dodge,2019,clean vehicle,1091,arizona
+15400,dodge,2019,clean vehicle,17472,arizona
+2300,dodge,2012,clean vehicle,123882,texas
+17000,dodge,2019,clean vehicle,10341,california
+34000,dodge,2019,clean vehicle,19695,new jersey
+13700,dodge,2017,clean vehicle,51041,pennsylvania
+19100,dodge,2018,clean vehicle,22646,west virginia
+11800,dodge,2018,clean vehicle,18138,west virginia
+27500,dodge,2019,clean vehicle,23987,nevada
+26900,dodge,2019,clean vehicle,17160,nevada
+27100,dodge,2019,clean vehicle,26929,nevada
+27200,dodge,2019,clean vehicle,25815,nevada
+9000,dodge,2017,clean vehicle,81992,florida
+22500,dodge,2019,clean vehicle,5000,south carolina
+7700,dodge,2015,clean vehicle,62683,west virginia
+4500,dodge,2013,clean vehicle,107224,florida
+2200,dodge,2013,salvage insurance,184905,illinois
+21500,dodge,2019,clean vehicle,35153,pennsylvania
+18800,dodge,2019,clean vehicle,26474,pennsylvania
+21800,dodge,2019,clean vehicle,30943,pennsylvania
+20300,dodge,2019,clean vehicle,17154,pennsylvania
+8200,dodge,2016,clean vehicle,79637,south carolina
+19000,dodge,2019,clean vehicle,12123,pennsylvania
+8400,dodge,2016,clean vehicle,107822,south carolina
+19500,dodge,2019,clean vehicle,10221,pennsylvania
+7000,dodge,2015,clean vehicle,95278,south carolina
+19500,dodge,2019,clean vehicle,13457,pennsylvania
+8500,dodge,2014,clean vehicle,69936,missouri
+20500,dodge,2019,clean vehicle,13520,pennsylvania
+4900,dodge,2014,clean vehicle,96922,south carolina
+20800,dodge,2014,clean vehicle,72594,missouri
+28500,dodge,2019,clean vehicle,17896,pennsylvania
+21900,dodge,2019,clean vehicle,11088,pennsylvania
+15800,dodge,2019,clean vehicle,29567,nevada
+33000,dodge,2019,clean vehicle,15655,colorado
+22700,dodge,2019,clean vehicle,26428,nevada
+21900,dodge,2019,clean vehicle,29003,pennsylvania
+19300,dodge,2019,clean vehicle,32229,pennsylvania
+30700,dodge,2019,clean vehicle,26503,nevada
+19300,dodge,2019,clean vehicle,15446,pennsylvania
+13750,dodge,2014,clean vehicle,128556,california
+16400,dodge,2019,clean vehicle,23369,nevada
+19500,dodge,2019,clean vehicle,8767,pennsylvania
+15100,dodge,2019,clean vehicle,48319,nevada
+28500,dodge,2019,clean vehicle,15275,pennsylvania
+15300,dodge,2019,clean vehicle,33826,nevada
+20300,dodge,2019,clean vehicle,16679,pennsylvania
+22000,dodge,2019,clean vehicle,26184,pennsylvania
+16700,dodge,2019,clean vehicle,21203,nevada
+19300,dodge,2019,clean vehicle,17870,pennsylvania
+34100,dodge,2019,clean vehicle,17909,michigan
+14600,dodge,2019,clean vehicle,41126,nevada
+18200,dodge,2019,clean vehicle,14098,pennsylvania
+33800,dodge,2019,clean vehicle,15003,michigan
+15900,dodge,2019,clean vehicle,29105,nevada
+16500,dodge,2019,clean vehicle,34794,pennsylvania
+29600,dodge,2019,clean vehicle,20034,michigan
+14100,dodge,2019,clean vehicle,46942,nevada
+18200,dodge,2019,clean vehicle,14753,pennsylvania
+18200,dodge,2019,clean vehicle,14359,pennsylvania
+24300,dodge,2019,clean vehicle,34922,michigan
+15400,dodge,2019,clean vehicle,20944,nevada
+19000,dodge,2019,clean vehicle,9877,pennsylvania
+19000,dodge,2019,clean vehicle,8949,pennsylvania
+27800,dodge,2017,clean vehicle,13627,georgia
+18200,dodge,2019,clean vehicle,18291,pennsylvania
+15000,dodge,2018,clean vehicle,38029,pennsylvania
+19200,dodge,2017,clean vehicle,32593,michigan
+15500,dodge,2018,clean vehicle,37352,pennsylvania
+24900,dodge,2017,clean vehicle,23030,michigan
+15500,dodge,2018,clean vehicle,30671,pennsylvania
+7600,dodge,2012,salvage insurance,79544,texas
+18400,dodge,2017,clean vehicle,15027,michigan
+14700,dodge,2018,clean vehicle,29115,florida
+3900,dodge,2015,clean vehicle,93604,florida
+5200,dodge,2015,clean vehicle,100203,florida
+17200,dodge,2019,clean vehicle,35401,minnesota
+18700,dodge,2019,clean vehicle,20279,minnesota
+32000,dodge,2019,clean vehicle,26090,minnesota
+14500,dodge,2015,clean vehicle,107924,michigan
+19400,dodge,2019,clean vehicle,14906,minnesota
+17300,dodge,2019,clean vehicle,34407,minnesota
+16700,dodge,2019,clean vehicle,18049,minnesota
+19100,dodge,2019,clean vehicle,18132,minnesota
+11100,dodge,2013,clean vehicle,109176,illinois
+32000,dodge,2019,clean vehicle,25456,minnesota
+16900,dodge,2019,clean vehicle,38375,minnesota
+18000,dodge,2017,clean vehicle,39792,massachusetts
+17800,dodge,2019,clean vehicle,30403,minnesota
+18000,dodge,2019,clean vehicle,28252,minnesota
+17500,dodge,2019,clean vehicle,31904,minnesota
+14500,dodge,2018,clean vehicle,24336,nevada
+18500,dodge,2019,clean vehicle,23961,minnesota
+18600,dodge,2019,clean vehicle,22919,minnesota
+32000,dodge,2019,clean vehicle,22863,minnesota
+17000,dodge,2019,clean vehicle,38817,minnesota
+16000,dodge,2019,clean vehicle,48854,minnesota
+18000,dodge,2019,clean vehicle,27288,minnesota
+15900,dodge,2020,clean vehicle,5284,pennsylvania
+6200,dodge,2016,clean vehicle,99988,alabama
+3700,dodge,2013,clean vehicle,84109,alabama
+24000,dodge,2012,clean vehicle,88539,mississippi
+20800,dodge,2013,clean vehicle,33739,nevada
+18500,dodge,2012,clean vehicle,101017,mississippi
+18300,dodge,2019,clean vehicle,13906,pennsylvania
+21000,dodge,2019,clean vehicle,20601,pennsylvania
+1300,dodge,2013,salvage insurance,135561,tennessee
+11900,dodge,2019,clean vehicle,23421,pennsylvania
+950,dodge,2012,salvage insurance,145174,maryland
+26800,dodge,2019,clean vehicle,21309,pennsylvania
+800,dodge,2012,salvage insurance,217576,north carolina
+21000,dodge,2019,clean vehicle,10350,pennsylvania
+1900,dodge,2012,salvage insurance,157636,georgia
+33500,dodge,2019,clean vehicle,8605,pennsylvania
+900,dodge,2013,salvage insurance,139404,connecticut
+21000,dodge,2019,clean vehicle,10170,pennsylvania
+26800,dodge,2019,clean vehicle,22272,pennsylvania
+5700,dodge,2016,clean vehicle,101906,texas
+18500,dodge,2019,clean vehicle,27019,pennsylvania
+33000,dodge,2019,clean vehicle,10930,pennsylvania
+11000,dodge,2019,clean vehicle,73552,texas
+15800,dodge,2019,clean vehicle,37107,pennsylvania
+3600,dodge,2013,salvage insurance,124247,michigan
+16300,dodge,2019,clean vehicle,36993,pennsylvania
+2700,dodge,2015,clean vehicle,67133,texas
+12800,dodge,2019,clean vehicle,33580,pennsylvania
+9700,dodge,2015,clean vehicle,94140,texas
+18300,dodge,2019,clean vehicle,10447,pennsylvania
+16000,dodge,2019,clean vehicle,10229,illinois
+21000,dodge,2019,clean vehicle,6269,pennsylvania
+3700,dodge,2014,clean vehicle,98699,texas
+33000,dodge,2019,clean vehicle,10631,illinois
+14700,dodge,2019,clean vehicle,44381,pennsylvania
+33000,dodge,2019,clean vehicle,13960,illinois
+15900,dodge,2019,clean vehicle,14051,pennsylvania
+33000,dodge,2019,clean vehicle,20800,illinois
+33000,dodge,2019,clean vehicle,8873,illinois
+32500,dodge,2019,clean vehicle,15502,illinois
+33000,dodge,2019,clean vehicle,9669,illinois
+13000,dodge,2018,clean vehicle,50873,virginia
+33000,dodge,2019,clean vehicle,14117,illinois
+16500,dodge,2019,clean vehicle,46820,illinois
+33000,dodge,2019,clean vehicle,7247,illinois
+34500,dodge,2017,clean vehicle,40991,north carolina
+33500,dodge,2019,clean vehicle,9023,illinois
+48000,dodge,2018,clean vehicle,8047,pennsylvania
+54500,dodge,2019,clean vehicle,3966,illinois
+13200,dodge,2018,clean vehicle,41014,pennsylvania
+31500,dodge,2018,clean vehicle,20907,illinois
+17400,dodge,2017,clean vehicle,89795,illinois
+26000,dodge,2017,clean vehicle,57158,illinois
+1700,dodge,2013,salvage insurance,126718,texas
+11000,dodge,2013,clean vehicle,83976,illinois
+21000,dodge,2018,clean vehicle,12554,texas
+5500,dodge,2015,clean vehicle,60707,texas
+7500,dodge,2014,clean vehicle,40110,texas
+15800,dodge,2019,clean vehicle,28038,michigan
+16900,dodge,2019,clean vehicle,26643,michigan
+25000,dodge,2019,clean vehicle,36127,michigan
+18000,dodge,2019,salvage insurance,19983,massachusetts
+15600,dodge,2019,clean vehicle,29926,michigan
+23800,dodge,2019,clean vehicle,36750,north carolina
+16800,dodge,2019,clean vehicle,27312,michigan
+22700,dodge,2019,clean vehicle,49575,north carolina
+23300,dodge,2019,clean vehicle,30279,north carolina
+23500,dodge,2019,clean vehicle,25825,north carolina
+25500,dodge,2019,clean vehicle,32474,north carolina
+21800,dodge,2019,clean vehicle,30585,north carolina
+22800,dodge,2019,clean vehicle,36203,north carolina
+18200,dodge,2019,clean vehicle,29602,michigan
+23500,dodge,2019,clean vehicle,28689,north carolina
+25700,dodge,2019,clean vehicle,31447,north carolina
+15700,dodge,2019,clean vehicle,39148,north carolina
+17500,dodge,2018,clean vehicle,33495,michigan
+15700,dodge,2019,clean vehicle,35274,north carolina
+16500,dodge,2018,clean vehicle,48745,indiana
+16100,dodge,2019,clean vehicle,31297,north carolina
+15600,dodge,2019,clean vehicle,38745,north carolina
+15400,dodge,2019,clean vehicle,37704,north carolina
+28200,dodge,2017,clean vehicle,27060,michigan
+15300,dodge,2019,clean vehicle,40002,north carolina
+15900,dodge,2019,clean vehicle,34930,north carolina
+17700,dodge,2016,clean vehicle,22863,indiana
+15800,dodge,2019,clean vehicle,36876,north carolina
+15900,dodge,2019,clean vehicle,34264,north carolina
+25300,dodge,2019,clean vehicle,17515,new mexico
+16300,dodge,2019,clean vehicle,27071,north carolina
+29500,dodge,2019,clean vehicle,14656,new mexico
+14500,dodge,2019,clean vehicle,35652,north carolina
+15400,dodge,2019,clean vehicle,30055,north carolina
+15400,dodge,2019,clean vehicle,43088,north carolina
+15100,dodge,2019,clean vehicle,33641,north carolina
+15000,dodge,2019,clean vehicle,34797,north carolina
+15500,dodge,2019,clean vehicle,43943,north carolina
+15000,dodge,2019,clean vehicle,35744,north carolina
+15200,dodge,2019,clean vehicle,31542,north carolina
+15700,dodge,2019,clean vehicle,26899,north carolina
+16100,dodge,2019,clean vehicle,29985,north carolina
+16300,dodge,2018,clean vehicle,37009,texas
+16000,dodge,2019,clean vehicle,30731,north carolina
+16900,dodge,2019,clean vehicle,30062,north carolina
+17000,dodge,2019,clean vehicle,28295,north carolina
+17300,dodge,2019,clean vehicle,25534,north carolina
+15900,dodge,2019,clean vehicle,29716,north carolina
+15700,dodge,2019,clean vehicle,34294,north carolina
+16900,dodge,2019,clean vehicle,27643,north carolina
+15500,dodge,2019,clean vehicle,35516,north carolina
+15100,dodge,2019,clean vehicle,40674,north carolina
+15500,dodge,2019,clean vehicle,32494,north carolina
+15400,dodge,2019,clean vehicle,35047,north carolina
+16500,dodge,2019,clean vehicle,32898,north carolina
+42500,dodge,2015,clean vehicle,13740,texas
+16600,dodge,2019,clean vehicle,23132,north carolina
+15200,dodge,2019,clean vehicle,37174,north carolina
+15800,dodge,2019,clean vehicle,34023,north carolina
+16900,dodge,2019,clean vehicle,30021,north carolina
+11100,dodge,2017,clean vehicle,51469,north carolina
+15600,dodge,2019,clean vehicle,31237,north carolina
+16900,dodge,2019,clean vehicle,30186,north carolina
+15300,dodge,2019,clean vehicle,41956,north carolina
+16600,dodge,2019,clean vehicle,30727,north carolina
+21800,dodge,2017,clean vehicle,38956,pennsylvania
+36500,dodge,2018,clean vehicle,22036,virginia
+26300,dodge,2019,clean vehicle,26462,georgia
+20900,dodge,2019,clean vehicle,23143,georgia
+20100,dodge,2019,clean vehicle,17340,georgia
+26700,dodge,2019,clean vehicle,29749,georgia
+23900,dodge,2019,clean vehicle,35248,georgia
+14500,dodge,2018,clean vehicle,40417,florida
+23000,dodge,2017,clean vehicle,30309,virginia
+15000,dodge,2018,clean vehicle,42303,north carolina
+15000,dodge,2018,clean vehicle,35326,north carolina
+28500,ford,2017,clean vehicle,92100,texas
+28000,ford,2017,clean vehicle,99375,texas
+9000,ford,2017,clean vehicle,72418,texas
+28700,ford,2015,clean vehicle,29733,connecticut
+25000,ford,2017,clean vehicle,119439,texas
+17347,ford,2015,clean vehicle,54396,massachusetts
+13800,ford,2016,clean vehicle,91606,texas
+25888,ford,2015,clean vehicle,2807,new jersey
+8500,ford,2017,clean vehicle,78739,tennessee
+21289,ford,2015,clean vehicle,71955,new york
+17999,ford,2015,clean vehicle,48472,new jersey
+2700,ford,2012,clean vehicle,98470,texas
+30977,ford,2015,clean vehicle,28937,pennsylvania
+13799,ford,2015,clean vehicle,83693,new jersey
+20500,ford,2014,clean vehicle,90888,arizona
+8500,ford,2012,clean vehicle,216942,texas
+9900,ford,2015,clean vehicle,205796,florida
+65500,ford,2019,clean vehicle,6500,indiana
+24500,ford,2018,clean vehicle,39943,florida
+32500,ford,2020,clean vehicle,5920,missouri
+9200,ford,2018,clean vehicle,71478,pennsylvania
+17700,ford,2017,clean vehicle,119520,pennsylvania
+18300,ford,2020,clean vehicle,10882,california
+43500,ford,2019,clean vehicle,29010,illinois
+15200,ford,2016,clean vehicle,69003,pennsylvania
+36200,ford,2019,clean vehicle,16207,illinois
+21900,ford,2018,clean vehicle,29748,new jersey
+20700,ford,2019,clean vehicle,25582,california
+12300,ford,2019,clean vehicle,24520,california
+4200,ford,2016,clean vehicle,104383,pennsylvania
+19500,ford,2019,clean vehicle,34164,california
+14300,ford,2020,clean vehicle,6975,california
+13700,ford,2016,clean vehicle,67150,pennsylvania
+13200,ford,2015,clean vehicle,100820,pennsylvania
+6200,ford,2014,clean vehicle,142286,pennsylvania
+6500,ford,2015,clean vehicle,60015,pennsylvania
+1500,ford,2013,clean vehicle,126381,pennsylvania
+2200,ford,2013,clean vehicle,128753,pennsylvania
+4200,ford,2013,clean vehicle,0,pennsylvania
+8700,ford,2013,clean vehicle,64598,pennsylvania
+3200,ford,2012,clean vehicle,111532,pennsylvania
+9000,ford,2012,clean vehicle,149346,pennsylvania
+20000,ford,2018,clean vehicle,43567,illinois
+33000,ford,2017,clean vehicle,36004,texas
+23300,ford,2019,clean vehicle,10935,south carolina
+8750,ford,2017,clean vehicle,150484,illinois
+11975,ford,2012,clean vehicle,122014,texas
+23600,ford,2019,clean vehicle,19363,south carolina
+12000,ford,2016,clean vehicle,42902,texas
+30900,ford,2018,clean vehicle,401,indiana
+23900,ford,2019,clean vehicle,11077,south carolina
+40400,ford,2018,clean vehicle,34100,indiana
+38000,ford,2019,clean vehicle,30018,minnesota
+27000,ford,2019,clean vehicle,18279,illinois
+24000,ford,2019,clean vehicle,7373,south carolina
+30000,ford,2019,clean vehicle,2590,wisconsin
+16200,ford,2019,clean vehicle,41662,south carolina
+30000,ford,2019,clean vehicle,15019,wisconsin
+23900,ford,2019,clean vehicle,9420,south carolina
+13800,ford,2018,clean vehicle,41864,missouri
+23700,ford,2019,clean vehicle,16829,south carolina
+24300,ford,2018,clean vehicle,6290,illinois
+54900,ford,2019,clean vehicle,14393,nevada
+22500,ford,2018,clean vehicle,14599,wisconsin
+39000,ford,2018,clean vehicle,25839,illinois
+13900,ford,2018,clean vehicle,60715,wisconsin
+24700,ford,2018,clean vehicle,23350,illinois
+20100,ford,2018,clean vehicle,62386,california
+22000,ford,2018,clean vehicle,6248,illinois
+38200,ford,2019,clean vehicle,878,florida
+24400,ford,2018,clean vehicle,49710,california
+35000,ford,2018,clean vehicle,2042,illinois
+18600,ford,2019,clean vehicle,7742,florida
+22700,ford,2018,clean vehicle,39733,california
+38000,ford,2018,clean vehicle,33701,illinois
+17000,ford,2014,clean vehicle,67542,illinois
+17500,ford,2017,clean vehicle,35095,wisconsin
+23200,ford,2019,clean vehicle,8652,michigan
+30700,ford,2017,clean vehicle,51107,wisconsin
+23500,ford,2019,clean vehicle,14987,michigan
+26400,ford,2017,clean vehicle,28252,wisconsin
+23500,ford,2019,clean vehicle,16009,michigan
+38000,ford,2017,clean vehicle,47866,wisconsin
+23600,ford,2019,clean vehicle,11004,michigan
+19300,ford,2017,clean vehicle,42895,wisconsin
+23200,ford,2019,clean vehicle,9490,michigan
+13800,ford,2017,clean vehicle,39027,wisconsin
+23600,ford,2019,clean vehicle,13466,michigan
+23200,ford,2019,clean vehicle,8737,michigan
+40000,ford,2017,clean vehicle,23960,wisconsin
+23400,ford,2019,clean vehicle,5562,michigan
+23600,ford,2019,clean vehicle,13763,michigan
+23000,ford,2019,clean vehicle,10444,michigan
+25500,ford,2017,clean vehicle,41696,wisconsin
+23500,ford,2019,clean vehicle,15787,michigan
+29900,ford,2017,clean vehicle,9167,wisconsin
+23200,ford,2019,clean vehicle,17541,michigan
+50500,ford,2017,clean vehicle,24686,wisconsin
+23400,ford,2019,clean vehicle,15210,michigan
+24500,ford,2017,clean vehicle,54601,wisconsin
+49000,ford,2017,clean vehicle,2205,illinois
+25400,ford,2017,clean vehicle,35691,wisconsin
+23000,ford,2017,clean vehicle,32788,illinois
+6000,ford,2012,clean vehicle,180471,minnesota
+22400,ford,2016,clean vehicle,42925,wisconsin
+22500,ford,2016,clean vehicle,37385,wisconsin
+25200,ford,2019,clean vehicle,15415,virginia
+36000,ford,2016,clean vehicle,20047,wisconsin
+26700,ford,2019,clean vehicle,16884,virginia
+30500,ford,2016,clean vehicle,57936,wisconsin
+26700,ford,2019,clean vehicle,15244,virginia
+25000,ford,2019,clean vehicle,19842,virginia
+35200,ford,2016,clean vehicle,38830,wisconsin
+30300,ford,2019,clean vehicle,31899,tennessee
+25000,ford,2016,clean vehicle,69305,illinois
+26500,ford,2016,clean vehicle,46098,wisconsin
+21600,ford,2019,clean vehicle,29457,virginia
+18800,ford,2016,clean vehicle,30765,wisconsin
+21500,ford,2019,clean vehicle,29096,virginia
+9000,ford,2016,clean vehicle,40437,new jersey
+16700,ford,2015,clean vehicle,69004,wisconsin
+16800,ford,2015,clean vehicle,65179,wisconsin
+15700,ford,2015,clean vehicle,75862,wisconsin
+16800,ford,2015,clean vehicle,68319,wisconsin
+19500,ford,2015,clean vehicle,80354,wisconsin
+20500,ford,2015,clean vehicle,51441,wisconsin
+17400,ford,2015,clean vehicle,70954,wisconsin
+17500,ford,2014,clean vehicle,92500,wisconsin
+26000,ford,2014,clean vehicle,66367,illinois
+56700,ford,2019,clean vehicle,13884,kentucky
+5000,ford,2013,clean vehicle,202565,wisconsin
+40200,ford,2019,clean vehicle,26484,kentucky
+54000,ford,2013,clean vehicle,703,illinois
+65200,ford,2019,clean vehicle,18138,kentucky
+32500,ford,2017,clean vehicle,28007,minnesota
+25500,ford,2019,clean vehicle,11251,illinois
+63000,ford,2019,clean vehicle,11640,illinois
+44000,ford,2019,clean vehicle,10763,illinois
+70000,ford,2019,clean vehicle,9643,illinois
+56200,ford,2019,clean vehicle,33930,kentucky
+35000,ford,2019,clean vehicle,26451,wisconsin
+57700,ford,2019,clean vehicle,21101,kentucky
+74000,ford,2019,clean vehicle,10536,illinois
+60200,ford,2019,clean vehicle,31744,kentucky
+60000,ford,2018,clean vehicle,18062,illinois
+63000,ford,2018,clean vehicle,17942,illinois
+22500,ford,2014,clean vehicle,43646,wisconsin
+8300,ford,2014,clean vehicle,71989,wisconsin
+8300,ford,2012,clean vehicle,138328,wisconsin
+21000,ford,2013,clean vehicle,95386,wisconsin
+19300,ford,2019,clean vehicle,23740,mississippi
+16400,ford,2019,clean vehicle,36064,alabama
+27300,ford,2019,clean vehicle,18805,mississippi
+26400,ford,2012,clean vehicle,151035,wisconsin
+35100,ford,2019,clean vehicle,10099,mississippi
+41500,ford,2018,clean vehicle,9800,new jersey
+34100,ford,2019,clean vehicle,10483,mississippi
+28600,ford,2019,clean vehicle,17544,california
+34100,ford,2019,clean vehicle,10167,mississippi
+28700,ford,2019,clean vehicle,11457,california
+24700,ford,2019,clean vehicle,26590,california
+46500,ford,2019,clean vehicle,35346,california
+29000,ford,2019,clean vehicle,12953,california
+25500,ford,2019,clean vehicle,26693,california
+39500,ford,2019,clean vehicle,25071,california
+33100,ford,2019,clean vehicle,33538,california
+30500,ford,2019,clean vehicle,9915,california
+3600,ford,2018,clean vehicle,1,arizona
+16800,ford,2019,clean vehicle,9910,california
+24000,ford,2019,clean vehicle,16765,texas
+58500,ford,2019,clean vehicle,4970,california
+55000,ford,2017,clean vehicle,43964,texas
+28800,ford,2019,clean vehicle,40785,california
+26800,ford,2015,clean vehicle,108998,new jersey
+36000,ford,2018,clean vehicle,58576,wisconsin
+20000,ford,2018,clean vehicle,55475,wisconsin
+46700,ford,2019,clean vehicle,35929,alabama
+42800,ford,2019,clean vehicle,21669,alabama
+21800,ford,2018,clean vehicle,16079,california
+18800,ford,2018,clean vehicle,41147,california
+18800,ford,2018,clean vehicle,45798,california
+30200,ford,2018,clean vehicle,21703,california
+27500,ford,2018,clean vehicle,22284,california
+37500,ford,2018,clean vehicle,24567,california
+19100,ford,2018,clean vehicle,30594,california
+17100,ford,2018,clean vehicle,52747,california
+13500,ford,2018,clean vehicle,21592,florida
+54500,ford,2018,clean vehicle,19853,california
+9000,ford,2018,clean vehicle,25201,florida
+16400,ford,2020,clean vehicle,10351,pennsylvania
+17000,ford,2020,clean vehicle,1117,pennsylvania
+24800,ford,2017,clean vehicle,37279,california
+26800,ford,2017,clean vehicle,30113,california
+19400,ford,2017,clean vehicle,27570,california
+20000,ford,2017,clean vehicle,45188,california
+7000,ford,2012,clean vehicle,149712,texas
+25100,ford,2017,clean vehicle,25030,california
+2000,ford,2013,salvage insurance,105743,oklahoma
+18200,ford,2020,clean vehicle,9861,pennsylvania
+14200,ford,2018,clean vehicle,1751,illinois
+56500,ford,2017,clean vehicle,30629,california
+2000,ford,2016,salvage insurance,52883,oklahoma
+26500,ford,2020,clean vehicle,122,pennsylvania
+34300,ford,2019,clean vehicle,28534,florida
+43500,ford,2017,clean vehicle,80699,california
+3500,ford,2016,salvage insurance,72851,oklahoma
+37200,ford,2019,clean vehicle,24078,florida
+12800,ford,2017,clean vehicle,38639,california
+15000,ford,2013,salvage insurance,146807,texas
+12500,ford,2017,clean vehicle,31871,california
+21500,ford,2017,clean vehicle,76876,california
+17300,ford,2019,clean vehicle,28070,north carolina
+27000,ford,2017,clean vehicle,3189,california
+31800,ford,2017,clean vehicle,28359,florida
+13000,ford,2017,clean vehicle,42890,california
+31800,ford,2017,clean vehicle,29328,florida
+46300,ford,2016,clean vehicle,47531,california
+6000,ford,2015,clean vehicle,57345,missouri
+22800,ford,2016,clean vehicle,67546,california
+45000,ford,2019,clean vehicle,18153,pennsylvania
+49500,ford,2019,clean vehicle,17689,pennsylvania
+3000,ford,2012,clean vehicle,137171,missouri
+20000,ford,2015,clean vehicle,63445,california
+25300,ford,2019,clean vehicle,26422,pennsylvania
+4000,ford,2015,salvage insurance,149319,south carolina
+45500,ford,2019,clean vehicle,18767,pennsylvania
+9100,ford,2018,clean vehicle,38289,minnesota
+48000,ford,2019,clean vehicle,22960,pennsylvania
+47000,ford,2019,clean vehicle,17263,pennsylvania
+49500,ford,2019,clean vehicle,16981,pennsylvania
+31200,ford,2019,clean vehicle,13058,pennsylvania
+18500,ford,2014,clean vehicle,45887,california
+15500,ford,2019,clean vehicle,21740,pennsylvania
+30500,ford,2019,clean vehicle,17707,pennsylvania
+45500,ford,2019,clean vehicle,19121,pennsylvania
+31500,ford,2019,clean vehicle,18856,pennsylvania
+11000,ford,2013,clean vehicle,84752,new jersey
+46500,ford,2019,clean vehicle,19555,pennsylvania
+31500,ford,2019,clean vehicle,16340,pennsylvania
+32000,ford,2018,clean vehicle,17242,ohio
+23900,ford,2019,clean vehicle,28733,pennsylvania
+31500,ford,2019,clean vehicle,16019,pennsylvania
+18500,ford,2016,clean vehicle,75580,ohio
+1500,ford,2013,salvage insurance,113444,georgia
+46000,ford,2019,clean vehicle,19227,pennsylvania
+31500,ford,2019,clean vehicle,13633,pennsylvania
+14700,ford,2015,clean vehicle,37739,new jersey
+2700,ford,2013,salvage insurance,103541,michigan
+47500,ford,2019,clean vehicle,24072,pennsylvania
+31500,ford,2019,clean vehicle,17657,pennsylvania
+8900,ford,2014,clean vehicle,77392,new jersey
+7000,ford,2019,salvage insurance,11930,michigan
+49000,ford,2019,clean vehicle,19731,pennsylvania
+31500,ford,2019,clean vehicle,15581,pennsylvania
+8900,ford,2014,clean vehicle,70181,new jersey
+48000,ford,2019,clean vehicle,16143,pennsylvania
+50000,ford,2019,clean vehicle,17995,pennsylvania
+47300,ford,2019,clean vehicle,23926,pennsylvania
+45000,ford,2017,clean vehicle,57929,louisiana
+49000,ford,2019,clean vehicle,20758,pennsylvania
+40200,ford,2019,clean vehicle,10028,texas
+48000,ford,2019,clean vehicle,21051,pennsylvania
+5000,ford,2015,clean vehicle,136307,louisiana
+8200,ford,2013,clean vehicle,105880,new jersey
+49000,ford,2019,clean vehicle,19985,pennsylvania
+4000,ford,2015,clean vehicle,102590,louisiana
+39000,ford,2019,clean vehicle,27612,pennsylvania
+29000,ford,2015,clean vehicle,90855,louisiana
+46500,ford,2019,clean vehicle,19936,pennsylvania
+7805,ford,2015,clean vehicle,64495,louisiana
+22000,ford,2018,clean vehicle,39477,texas
+18800,ford,2019,clean vehicle,25698,pennsylvania
+33000,ford,2015,clean vehicle,73849,louisiana
+39500,ford,2019,clean vehicle,25422,pennsylvania
+16900,ford,2015,clean vehicle,47866,louisiana
+42500,ford,2019,clean vehicle,31236,pennsylvania
+39500,ford,2019,clean vehicle,26755,pennsylvania
+25500,ford,2018,clean vehicle,49177,illinois
+49500,ford,2019,clean vehicle,20749,pennsylvania
+25000,ford,2018,clean vehicle,15003,illinois
+40000,ford,2019,clean vehicle,12247,pennsylvania
+26000,ford,2018,clean vehicle,1,illinois
+29500,ford,2019,clean vehicle,10808,pennsylvania
+23000,ford,2019,clean vehicle,11263,oklahoma
+25500,ford,2018,clean vehicle,42307,illinois
+44500,ford,2019,clean vehicle,17484,pennsylvania
+15600,ford,2019,clean vehicle,37106,missouri
+23100,ford,2019,clean vehicle,9539,oklahoma
+37000,ford,2019,clean vehicle,2384,pennsylvania
+14500,ford,2019,clean vehicle,20590,missouri
+23000,ford,2019,clean vehicle,13896,oklahoma
+26500,ford,2019,clean vehicle,9451,pennsylvania
+18000,ford,2017,clean vehicle,31657,missouri
+35700,ford,2019,clean vehicle,33907,oklahoma
+31000,ford,2019,clean vehicle,10028,pennsylvania
+2000,ford,2013,clean vehicle,175640,missouri
+40400,ford,2019,clean vehicle,30770,oklahoma
+43600,ford,2019,clean vehicle,15141,pennsylvania
+22600,ford,2019,clean vehicle,18431,oklahoma
+26000,ford,2019,clean vehicle,9604,pennsylvania
+23200,ford,2019,clean vehicle,9516,oklahoma
+29000,ford,2019,clean vehicle,9718,pennsylvania
+22800,ford,2019,clean vehicle,16506,oklahoma
+3450,ford,2015,salvage insurance,192108,oregon
+31000,ford,2019,clean vehicle,11028,pennsylvania
+22900,ford,2019,clean vehicle,11313,oklahoma
+3000,ford,2014,salvage insurance,141595,oregon
+28000,ford,2019,clean vehicle,12886,pennsylvania
+23200,ford,2019,clean vehicle,9556,oklahoma
+27000,ford,2019,clean vehicle,13269,pennsylvania
+22800,ford,2019,clean vehicle,16770,oklahoma
+31500,ford,2019,clean vehicle,13526,pennsylvania
+23400,ford,2019,clean vehicle,16391,oklahoma
+28000,ford,2019,clean vehicle,11437,pennsylvania
+23400,ford,2019,clean vehicle,17964,oklahoma
+28000,ford,2018,clean vehicle,5440,texas
+24900,ford,2019,clean vehicle,13035,pennsylvania
+23500,ford,2019,clean vehicle,15759,oklahoma
+36000,ford,2018,clean vehicle,30002,texas
+28700,ford,2019,clean vehicle,13673,pennsylvania
+16000,ford,2018,clean vehicle,24480,oregon
+31000,ford,2019,clean vehicle,13230,pennsylvania
+16500,ford,2017,clean vehicle,137789,oregon
+28500,ford,2019,clean vehicle,13516,pennsylvania
+10800,ford,2017,clean vehicle,81660,oregon
+28500,ford,2019,clean vehicle,11763,pennsylvania
+25000,ford,2017,clean vehicle,34165,oregon
+31000,ford,2019,clean vehicle,13458,pennsylvania
+7800,ford,2016,clean vehicle,104867,oregon
+28500,ford,2019,clean vehicle,14004,pennsylvania
+9500,ford,2016,clean vehicle,69829,oregon
+28500,ford,2019,clean vehicle,13405,pennsylvania
+14500,ford,2016,clean vehicle,96151,oregon
+25000,ford,2019,clean vehicle,12688,pennsylvania
+14500,ford,2016,clean vehicle,116519,oregon
+28500,ford,2019,clean vehicle,12260,pennsylvania
+12100,ford,2016,clean vehicle,29367,oregon
+29400,ford,2019,clean vehicle,18982,pennsylvania
+24700,ford,2019,clean vehicle,23795,california
+8700,ford,2016,clean vehicle,76572,oregon
+29500,ford,2019,clean vehicle,15964,pennsylvania
+25800,ford,2019,clean vehicle,28117,california
+17500,ford,2016,clean vehicle,116730,oregon
+23900,ford,2019,clean vehicle,21055,pennsylvania
+22900,ford,2019,clean vehicle,27794,california
+19500,ford,2016,clean vehicle,56995,oregon
+29500,ford,2019,clean vehicle,16625,pennsylvania
+24500,ford,2019,clean vehicle,27689,california
+11000,ford,2016,clean vehicle,39851,oregon
+22400,ford,2019,clean vehicle,31727,pennsylvania
+15700,ford,2019,clean vehicle,31586,california
+11000,ford,2015,clean vehicle,33717,oregon
+28000,ford,2019,clean vehicle,18418,pennsylvania
+13500,ford,2019,clean vehicle,39013,california
+7300,ford,2013,clean vehicle,125451,oregon
+25100,ford,2019,clean vehicle,21346,pennsylvania
+24100,ford,2019,clean vehicle,21150,california
+6500,ford,2014,clean vehicle,103862,oregon
+10500,ford,2019,clean vehicle,22001,pennsylvania
+16900,ford,2019,clean vehicle,31261,california
+6000,ford,2013,clean vehicle,140870,oregon
+28500,ford,2019,clean vehicle,14358,pennsylvania
+16200,ford,2019,clean vehicle,41672,california
+6500,ford,2013,clean vehicle,95655,oregon
+24500,ford,2019,clean vehicle,19493,pennsylvania
+16500,ford,2019,clean vehicle,36956,california
+56500,ford,2017,clean vehicle,23223,texas
+10400,ford,2019,clean vehicle,13085,pennsylvania
+22800,ford,2018,clean vehicle,36124,oklahoma
+26500,ford,2019,clean vehicle,19147,pennsylvania
+23800,ford,2019,clean vehicle,24993,pennsylvania
+24700,ford,2018,clean vehicle,41127,oklahoma
+12400,ford,2019,clean vehicle,32365,pennsylvania
+16600,ford,2019,clean vehicle,27774,pennsylvania
+11200,ford,2015,clean vehicle,105027,oklahoma
+15900,ford,2019,clean vehicle,27806,pennsylvania
+7700,ford,2015,clean vehicle,54198,oklahoma
+15100,ford,2019,clean vehicle,30181,pennsylvania
+7200,ford,2013,clean vehicle,82670,oklahoma
+15600,ford,2019,clean vehicle,36305,pennsylvania
+39700,ford,2019,clean vehicle,10475,oklahoma
+16000,ford,2019,clean vehicle,34734,pennsylvania
+7500,ford,2012,clean vehicle,186713,oklahoma
+15500,ford,2017,clean vehicle,132150,oregon
+19000,ford,2019,clean vehicle,12928,pennsylvania
+5500,ford,2015,clean vehicle,116539,oklahoma
+38700,ford,2018,clean vehicle,59549,oklahoma
+21000,ford,2019,clean vehicle,12174,pennsylvania
+28500,ford,2016,clean vehicle,96129,oklahoma
+37200,ford,2018,clean vehicle,89809,oklahoma
+18500,ford,2019,clean vehicle,18202,pennsylvania
+15000,ford,2015,clean vehicle,128505,oklahoma
+37700,ford,2017,clean vehicle,43527,oklahoma
+22200,ford,2019,clean vehicle,15792,pennsylvania
+39950,ford,2019,clean vehicle,9278,georgia
+37600,ford,2017,clean vehicle,41925,oklahoma
+18500,ford,2019,clean vehicle,16924,pennsylvania
+10000,ford,2013,clean vehicle,119869,florida
+20500,ford,2019,clean vehicle,17260,pennsylvania
+5700,ford,2013,clean vehicle,89490,florida
+21000,ford,2019,clean vehicle,40772,pennsylvania
+22500,ford,2019,clean vehicle,25623,pennsylvania
+29000,ford,2019,clean vehicle,11669,colorado
+13200,ford,2013,clean vehicle,138524,florida
+25500,ford,2019,clean vehicle,13644,pennsylvania
+25700,ford,2016,clean vehicle,147935,texas
+18900,ford,2015,clean vehicle,44456,new york
+31500,ford,2019,clean vehicle,20357,pennsylvania
+45500,ford,2017,clean vehicle,66366,florida
+11000,ford,2017,clean vehicle,43532,pennsylvania
+18288,ford,2015,clean vehicle,45218,new york
+20000,ford,2017,clean vehicle,85688,florida
+36600,ford,2016,clean vehicle,58902,pennsylvania
+18299,ford,2015,clean vehicle,59869,pennsylvania
+10000,ford,2017,clean vehicle,35021,colorado
+4100,ford,2012,clean vehicle,100264,pennsylvania
+30995,ford,2015,clean vehicle,157057,texas
+1750,ford,2012,salvage insurance,181316,minnesota
+31500,ford,2019,clean vehicle,23222,pennsylvania
+13500,ford,2016,clean vehicle,87686,colorado
+7500,ford,2014,clean vehicle,162918,texas
+650,ford,2017,salvage insurance,0,california
+22800,ford,2019,clean vehicle,32526,pennsylvania
+11300,ford,2016,clean vehicle,69402,colorado
+32700,ford,2014,clean vehicle,76336,texas
+1350,ford,2012,salvage insurance,163334,virginia
+21900,ford,2019,clean vehicle,47628,pennsylvania
+11700,ford,2014,clean vehicle,135283,texas
+6500,ford,2014,salvage insurance,147903,georgia
+9800,ford,2014,clean vehicle,74181,colorado
+11000,ford,2014,clean vehicle,77386,texas
+1150,ford,2014,salvage insurance,123349,georgia
+13000,ford,2013,clean vehicle,136661,colorado
+5500,ford,2013,clean vehicle,109600,texas
+6000,ford,2014,salvage insurance,125369,massachusetts
+11200,ford,2013,clean vehicle,122861,texas
+5000,ford,2016,salvage insurance,110826,massachusetts
+23400,ford,2019,clean vehicle,12198,missouri
+13500,ford,2019,salvage insurance,45512,massachusetts
+22900,ford,2019,clean vehicle,15656,missouri
+20000,ford,2020,clean vehicle,23984,virginia
+22900,ford,2019,clean vehicle,15821,missouri
+27000,ford,2020,clean vehicle,12748,virginia
+54500,ford,2019,clean vehicle,9865,oklahoma
+20600,ford,2020,clean vehicle,17858,virginia
+23500,ford,2019,clean vehicle,6711,missouri
+53000,ford,2019,clean vehicle,14939,oklahoma
+23600,ford,2019,clean vehicle,15820,missouri
+33500,ford,2019,clean vehicle,6140,oklahoma
+24400,ford,2019,clean vehicle,25552,virginia
+13000,ford,2016,clean vehicle,54984,west virginia
+48400,ford,2019,clean vehicle,24783,virginia
+26500,ford,2014,clean vehicle,148442,west virginia
+46200,ford,2019,clean vehicle,34191,virginia
+9300,ford,2013,clean vehicle,82072,west virginia
+13500,ford,2012,clean vehicle,104559,west virginia
+27600,ford,2019,clean vehicle,13265,virginia
+7400,ford,2013,clean vehicle,133314,west virginia
+26500,ford,2019,clean vehicle,22458,virginia
+26000,ford,2013,clean vehicle,70106,west virginia
+24500,ford,2019,clean vehicle,23712,virginia
+2100,ford,2012,clean vehicle,101848,west virginia
+16700,ford,2019,clean vehicle,14994,virginia
+17500,ford,2015,clean vehicle,59726,missouri
+17000,ford,2019,clean vehicle,16448,virginia
+22500,ford,2015,clean vehicle,28801,oklahoma
+34500,ford,2019,clean vehicle,28938,michigan
+16600,ford,2019,clean vehicle,19022,virginia
+7500,ford,2014,clean vehicle,93832,missouri
+34500,ford,2019,clean vehicle,25046,michigan
+25000,ford,2019,clean vehicle,22318,virginia
+36000,ford,2019,clean vehicle,17301,michigan
+23700,ford,2019,clean vehicle,27413,virginia
+28600,ford,2019,clean vehicle,39733,michigan
+23500,ford,2013,clean vehicle,74195,oklahoma
+25300,ford,2019,clean vehicle,44383,michigan
+24900,ford,2019,clean vehicle,19151,virginia
+20300,ford,2012,clean vehicle,188394,missouri
+23400,ford,2020,clean vehicle,2452,michigan
+14600,ford,2019,clean vehicle,36252,virginia
+25500,ford,2019,clean vehicle,27136,virginia
+14700,ford,2019,clean vehicle,35951,virginia
+33700,ford,2019,clean vehicle,35221,virginia
+33400,ford,2019,clean vehicle,33808,virginia
+34000,ford,2019,clean vehicle,32022,michigan
+17500,ford,2019,clean vehicle,34173,virginia
+14100,ford,2019,clean vehicle,24272,michigan
+30000,ford,2019,clean vehicle,19055,virginia
+16500,ford,2019,clean vehicle,34822,michigan
+30600,ford,2019,clean vehicle,15422,virginia
+12800,ford,2019,clean vehicle,24765,nevada
+26000,ford,2019,clean vehicle,23019,virginia
+46000,ford,2019,clean vehicle,38243,texas
+28500,ford,2019,clean vehicle,16509,virginia
+24300,ford,2019,clean vehicle,18762,nevada
+29000,ford,2019,clean vehicle,28854,texas
+15300,ford,2019,clean vehicle,17392,nevada
+27900,ford,2019,clean vehicle,13558,new mexico
+24700,ford,2019,clean vehicle,27082,nevada
+14400,ford,2019,clean vehicle,17510,texas
+15000,ford,2019,clean vehicle,24662,nevada
+17200,ford,2014,clean vehicle,96076,florida
+12800,ford,2019,clean vehicle,22858,nevada
+46900,ford,2020,clean vehicle,740,virginia
+2800,ford,2013,clean vehicle,110748,florida
+16200,ford,2019,clean vehicle,25090,nevada
+25200,ford,2020,clean vehicle,7,virginia
+34800,ford,2019,clean vehicle,34277,nevada
+52000,ford,2019,clean vehicle,34527,texas
+26000,ford,2017,clean vehicle,99923,texas
+40600,ford,2019,clean vehicle,39170,nevada
+55000,ford,2019,clean vehicle,16569,texas
+5000,ford,2015,clean vehicle,80612,texas
+36400,ford,2019,clean vehicle,36616,nevada
+7500,ford,2015,clean vehicle,92165,texas
+14700,ford,2019,clean vehicle,44778,nevada
+43900,ford,2020,clean vehicle,2089,south carolina
+6400,ford,2013,clean vehicle,91652,texas
+41100,ford,2019,clean vehicle,35801,nevada
+23000,ford,2013,clean vehicle,88781,texas
+13900,ford,2019,clean vehicle,36978,nevada
+19000,ford,2012,clean vehicle,189776,texas
+34800,ford,2019,clean vehicle,35233,nevada
+22000,ford,2012,clean vehicle,151641,texas
+16300,ford,2019,clean vehicle,37044,nevada
+18800,ford,2019,clean vehicle,15835,virginia
+13000,ford,2012,clean vehicle,201187,texas
+40900,ford,2019,clean vehicle,41928,nevada
+47000,ford,2019,clean vehicle,37059,virginia
+12800,ford,2017,clean vehicle,33763,wisconsin
+25500,ford,2019,clean vehicle,29850,nevada
+17800,ford,2019,clean vehicle,26675,virginia
+25700,ford,2019,clean vehicle,17828,nevada
+17200,ford,2019,clean vehicle,29632,virginia
+35000,ford,2019,clean vehicle,11544,new jersey
+28800,ford,2019,clean vehicle,21976,nevada
+39200,ford,2019,clean vehicle,43617,tennessee
+13600,ford,2019,clean vehicle,49254,pennsylvania
+24200,ford,2019,clean vehicle,51589,nevada
+46900,ford,2019,clean vehicle,41399,virginia
+26500,ford,2019,clean vehicle,11734,pennsylvania
+24700,ford,2019,clean vehicle,41628,nevada
+12600,ford,2017,clean vehicle,15075,new jersey
+31800,ford,2019,clean vehicle,26591,nevada
+24500,ford,2019,clean vehicle,22906,nevada
+26000,ford,2019,clean vehicle,33462,virginia
+21000,ford,2017,clean vehicle,32747,pennsylvania
+22500,ford,2019,clean vehicle,33717,nevada
+7700,ford,2017,clean vehicle,85218,pennsylvania
+23100,ford,2019,clean vehicle,23512,nevada
+9200,ford,2017,clean vehicle,57853,pennsylvania
+19600,ford,2019,clean vehicle,33324,nevada
+11700,ford,2016,clean vehicle,23803,pennsylvania
+27300,ford,2019,clean vehicle,31260,nevada
+14300,ford,2016,clean vehicle,69428,pennsylvania
+23600,ford,2019,clean vehicle,15755,nevada
+6200,ford,2016,clean vehicle,90946,pennsylvania
+22400,ford,2019,clean vehicle,51370,nevada
+5700,ford,2016,clean vehicle,99941,pennsylvania
+23600,ford,2019,clean vehicle,15456,nevada
+4600,ford,2016,clean vehicle,141603,pennsylvania
+37500,ford,2019,clean vehicle,2382,nevada
+10700,ford,2016,clean vehicle,99544,pennsylvania
+31900,ford,2019,clean vehicle,21546,nevada
+31600,ford,2019,clean vehicle,16293,georgia
+12600,ford,2018,clean vehicle,40375,nevada
+5300,ford,2013,clean vehicle,143191,pennsylvania
+3900,ford,2018,clean vehicle,363,nevada
+13000,ford,2015,clean vehicle,59656,florida
+11800,ford,2018,clean vehicle,37878,nevada
+24600,ford,2019,clean vehicle,20628,georgia
+14500,ford,2014,clean vehicle,71205,florida
+24300,ford,2018,clean vehicle,26186,nevada
+12300,ford,2018,clean vehicle,38157,nevada
+14800,ford,2016,clean vehicle,30325,new jersey
+17100,ford,2018,clean vehicle,31561,nevada
+6800,ford,2016,clean vehicle,66655,new jersey
+20300,ford,2018,clean vehicle,19029,connecticut
+26300,ford,2018,clean vehicle,11739,new york
+22500,ford,2016,clean vehicle,50423,nevada
+41200,ford,2019,clean vehicle,25638,tennessee
+20400,ford,2017,clean vehicle,59798,florida
+49900,ford,2019,clean vehicle,5035,virginia
+12100,ford,2017,clean vehicle,32284,new york
+24000,ford,2016,clean vehicle,40371,florida
+9500,ford,2017,clean vehicle,107569,new york
+9000,ford,2017,clean vehicle,96451,new jersey
+9800,ford,2017,clean vehicle,94851,new jersey
+7800,ford,2017,clean vehicle,108727,connecticut
+17200,ford,2017,clean vehicle,91979,new york
+18800,ford,2017,clean vehicle,76258,new york
+9800,ford,2014,clean vehicle,147574,california
+7000,ford,2013,clean vehicle,104764,florida
+44000,ford,2019,clean vehicle,16934,nevada
+23400,ford,2019,clean vehicle,13822,texas
+30700,ford,2019,clean vehicle,5250,texas
+15600,ford,2019,clean vehicle,33451,south carolina
+22600,ford,2019,clean vehicle,14291,texas
+22900,ford,2019,clean vehicle,16725,south carolina
+22800,ford,2019,clean vehicle,13002,texas
+22700,ford,2019,clean vehicle,18902,south carolina
+23000,ford,2019,clean vehicle,9732,texas
+22700,ford,2019,clean vehicle,18947,south carolina
+23000,ford,2019,clean vehicle,8402,north carolina
+34400,ford,2019,clean vehicle,17450,south carolina
+36500,ford,2016,clean vehicle,53986,nevada
+23100,ford,2019,clean vehicle,15848,south carolina
+23300,ford,2019,clean vehicle,10770,south carolina
+22600,ford,2019,clean vehicle,14587,north carolina
+4500,ford,2016,clean vehicle,98625,mississippi
+23000,ford,2019,clean vehicle,10916,north carolina
+8000,ford,2014,clean vehicle,107173,mississippi
+11500,ford,2019,clean vehicle,10134,north carolina
+9400,ford,2017,clean vehicle,43056,south carolina
+23000,ford,2019,clean vehicle,10655,north carolina
+2800,ford,2012,clean vehicle,173601,california
+22600,ford,2019,clean vehicle,14231,north carolina
+23000,ford,2019,clean vehicle,8985,north carolina
+5200,ford,2016,clean vehicle,84338,south carolina
+19200,ford,2017,clean vehicle,104290,texas
+10100,ford,2017,clean vehicle,45592,texas
+6200,ford,2015,clean vehicle,103960,south carolina
+14000,ford,2016,clean vehicle,110333,texas
+5000,ford,2015,clean vehicle,138516,south carolina
+9200,ford,2016,clean vehicle,49094,texas
+14700,ford,2016,clean vehicle,97526,texas
+3000,ford,2014,clean vehicle,87420,south carolina
+30200,ford,2015,clean vehicle,67052,texas
+3800,ford,2013,clean vehicle,58913,south carolina
+3200,ford,2013,clean vehicle,999999,south carolina
+21500,ford,2015,clean vehicle,14482,texas
+4900,ford,2016,clean vehicle,57084,california
+23000,ford,2017,clean vehicle,90251,colorado
+11200,ford,2014,clean vehicle,97320,texas
+10400,ford,2014,clean vehicle,80652,california
+13200,ford,2014,clean vehicle,99816,texas
+5200,ford,2013,clean vehicle,115429,texas
+10500,ford,2015,clean vehicle,85549,new jersey
+11900,ford,2013,clean vehicle,83030,california
+21200,ford,2014,clean vehicle,130168,texas
+23500,ford,2013,clean vehicle,80090,california
+4700,ford,2013,clean vehicle,118593,texas
+11100,ford,2014,clean vehicle,143704,texas
+22000,ford,2015,clean vehicle,53507,colorado
+14000,ford,2013,clean vehicle,48408,colorado
+9200,ford,2013,clean vehicle,109672,texas
+23300,ford,2019,clean vehicle,28549,minnesota
+21700,ford,2012,clean vehicle,114500,texas
+11200,ford,2012,clean vehicle,67140,texas
+11300,ford,2018,clean vehicle,42168,north carolina
+4200,ford,2015,salvage insurance,80032,illinois
+10900,ford,2018,clean vehicle,52240,north carolina
+42300,ford,2019,clean vehicle,34874,florida
+10500,ford,2014,salvage insurance,119689,idaho
+43400,ford,2019,clean vehicle,37355,florida
+12500,ford,2016,salvage insurance,100947,idaho
+15900,ford,2019,clean vehicle,26040,minnesota
+42500,ford,2019,clean vehicle,36638,florida
+15000,ford,2015,salvage insurance,137004,texas
+24700,ford,2019,clean vehicle,31794,florida
+15500,ford,2015,salvage insurance,131106,texas
+49000,ford,2019,clean vehicle,22013,minnesota
+29000,ford,2017,clean vehicle,42291,tennessee
+16800,ford,2019,clean vehicle,13155,florida
+51000,ford,2019,clean vehicle,24869,minnesota
+16500,ford,2019,clean vehicle,18454,florida
+10000,ford,2016,salvage insurance,16694,texas
+27900,ford,2019,clean vehicle,28922,florida
+23700,ford,2019,clean vehicle,23534,florida
+20000,ford,2012,salvage insurance,24581,california
+45600,ford,2019,clean vehicle,35646,florida
+6000,ford,2012,salvage insurance,129873,virginia
+15600,ford,2019,clean vehicle,28669,florida
+25000,ford,2017,clean vehicle,32454,michigan
+28500,ford,2019,clean vehicle,21800,florida
+8000,ford,2014,salvage insurance,231769,florida
+19990,ford,2016,clean vehicle,23796,connecticut
+34400,ford,2019,clean vehicle,42506,florida
+30999,ford,2016,clean vehicle,6249,connecticut
+41000,ford,2019,clean vehicle,47496,florida
+27999,ford,2016,clean vehicle,10700,massachusetts
+42000,ford,2019,clean vehicle,39604,florida
+8000,ford,2013,salvage insurance,250831,new jersey
+29795,ford,2016,clean vehicle,7275,connecticut
+24700,ford,2019,clean vehicle,8806,florida
+13995,ford,2016,clean vehicle,105115,new jersey
+2900,ford,2015,clean vehicle,57340,florida
+35400,ford,2019,clean vehicle,36167,florida
+24549,ford,2016,clean vehicle,44941,new york
+8900,ford,2014,clean vehicle,53102,florida
+15800,ford,2019,clean vehicle,26637,florida
+18500,ford,2016,clean vehicle,45814,new york
+32000,ford,2019,clean vehicle,17310,minnesota
+28300,ford,2019,clean vehicle,24116,florida
+10500,ford,2019,salvage insurance,14128,florida
+24970,ford,2016,clean vehicle,49882,new york
+13800,ford,2019,clean vehicle,38964,minnesota
+2580,ford,2012,clean vehicle,102705,florida
+59975,ford,2019,clean vehicle,71,florida
+2500,ford,2012,salvage insurance,98620,indiana
+28990,ford,2016,clean vehicle,15825,massachusetts
+50000,ford,2019,clean vehicle,29499,minnesota
+33800,ford,2014,clean vehicle,100255,kentucky
+59975,ford,2019,clean vehicle,174,florida
+2500,ford,2013,salvage insurance,167552,minnesota
+46999,ford,2016,clean vehicle,16956,new jersey
+16700,ford,2019,clean vehicle,36896,minnesota
+34700,ford,2013,clean vehicle,77281,kentucky
+28900,ford,2019,clean vehicle,24795,florida
+30800,ford,2016,clean vehicle,16771,new jersey
+27100,ford,2019,clean vehicle,28692,minnesota
+13388,ford,2012,clean vehicle,113821,louisiana
+26000,ford,2019,clean vehicle,19793,florida
+17900,ford,2016,clean vehicle,27940,massachusetts
+23400,ford,2019,clean vehicle,24987,minnesota
+29800,ford,2016,clean vehicle,18367,illinois
+23700,ford,2019,clean vehicle,14109,florida
+1725,ford,2012,salvage insurance,158781,illinois
+33995,ford,2016,clean vehicle,27369,new jersey
+23500,ford,2019,clean vehicle,30208,minnesota
+32500,ford,2019,clean vehicle,24024,florida
+2500,ford,2016,salvage insurance,64999,mississippi
+39000,ford,2019,clean vehicle,8404,minnesota
+11000,ford,2018,clean vehicle,8884,massachusetts
+32500,ford,2019,clean vehicle,24126,florida
+800,ford,2012,salvage insurance,129659,mississippi
+26900,ford,2019,clean vehicle,31713,minnesota
+11200,ford,2016,clean vehicle,109996,new york
+21000,ford,2018,clean vehicle,6821,new york
+32000,ford,2019,clean vehicle,17867,minnesota
+7300,ford,2016,clean vehicle,110253,connecticut
+12800,ford,2018,clean vehicle,39364,missouri
+24190,ford,2018,clean vehicle,4018,massachusetts
+29100,ford,2019,clean vehicle,21054,minnesota
+29000,ford,2017,clean vehicle,48309,massachusetts
+17300,ford,2016,clean vehicle,68666,new york
+19888,ford,2018,clean vehicle,34071,new jersey
+31000,ford,2019,clean vehicle,13600,minnesota
+37200,ford,2017,clean vehicle,44956,massachusetts
+8600,ford,2016,clean vehicle,72607,new jersey
+24857,ford,2018,clean vehicle,33815,massachusetts
+23500,ford,2019,clean vehicle,31491,minnesota
+26100,ford,2018,clean vehicle,32149,mississippi
+10800,ford,2016,clean vehicle,26654,new york
+20995,ford,2018,clean vehicle,36637,new york
+29300,ford,2019,clean vehicle,17000,minnesota
+33100,ford,2018,clean vehicle,15960,mississippi
+13800,ford,2016,clean vehicle,40774,new jersey
+19498,ford,2018,clean vehicle,40338,new york
+14900,ford,2019,clean vehicle,40505,minnesota
+8700,ford,2016,clean vehicle,30735,massachusetts
+20600,ford,2019,clean vehicle,33965,florida
+5000,ford,2018,salvage insurance,7339,oklahoma
+19995,ford,2018,clean vehicle,42470,new york
+14900,ford,2019,clean vehicle,40670,minnesota
+19500,ford,2016,clean vehicle,41233,massachusetts
+24500,ford,2019,clean vehicle,13162,florida
+15000,ford,2018,clean vehicle,38744,california
+26985,ford,2018,clean vehicle,14023,new york
+31000,ford,2019,clean vehicle,9741,minnesota
+24300,ford,2017,clean vehicle,31017,mississippi
+16800,ford,2019,clean vehicle,37786,florida
+17200,ford,2018,clean vehicle,32415,california
+34995,ford,2018,clean vehicle,10421,new york
+24300,ford,2019,clean vehicle,29305,minnesota
+26400,ford,2017,clean vehicle,51309,mississippi
+16800,ford,2019,clean vehicle,38001,florida
+15500,ford,2018,clean vehicle,18849,california
+19440,ford,2018,clean vehicle,43269,new york
+16700,ford,2019,clean vehicle,36989,minnesota
+29000,ford,2017,clean vehicle,29320,alabama
+16100,ford,2019,clean vehicle,34244,florida
+17200,ford,2018,clean vehicle,32938,california
+20950,ford,2018,clean vehicle,40793,new hampshire
+46200,ford,2017,clean vehicle,94741,alabama
+29400,ford,2019,clean vehicle,25011,florida
+2825,ford,2014,salvage insurance,363810,montana
+32999,ford,2018,clean vehicle,6881,new jersey
+6600,ford,2014,clean vehicle,80423,new jersey
+50200,ford,2017,clean vehicle,92405,alabama
+28300,ford,2019,clean vehicle,15436,florida
+12000,ford,2017,salvage insurance,104665,california
+32999,ford,2018,clean vehicle,16194,new jersey
+12600,ford,2014,clean vehicle,48188,new jersey
+5200,ford,2017,clean vehicle,65164,alabama
+20500,ford,2019,clean vehicle,35930,florida
+1200,ford,2012,salvage insurance,167376,virginia
+35999,ford,2018,clean vehicle,13674,new jersey
+41000,ford,2019,clean vehicle,9235,minnesota
+33100,ford,2017,clean vehicle,103002,mississippi
+23500,ford,2019,clean vehicle,12836,florida
+18799,ford,2015,clean vehicle,137728,connecticut
+33999,ford,2018,clean vehicle,6921,new jersey
+35000,ford,2019,clean vehicle,14359,minnesota
+26100,ford,2017,clean vehicle,58118,mississippi
+15400,ford,2019,clean vehicle,31124,florida
+25998,ford,2015,clean vehicle,25734,new york
+31831,ford,2018,clean vehicle,14059,new jersey
+40400,ford,2019,clean vehicle,13472,minnesota
+15400,ford,2013,clean vehicle,123983,connecticut
+13500,ford,2019,clean vehicle,35023,florida
+25995,ford,2015,clean vehicle,39509,new hampshire
+27990,ford,2018,clean vehicle,4512,new york
+23985,ford,2015,clean vehicle,51884,new jersey
+27995,ford,2018,clean vehicle,4181,pennsylvania
+13995,ford,2015,clean vehicle,56703,new york
+29988,ford,2018,clean vehicle,4712,pennsylvania
+12995,ford,2015,clean vehicle,102800,new jersey
+21687,ford,2018,clean vehicle,7109,pennsylvania
+25200,ford,2016,clean vehicle,100943,alabama
+29590,ford,2015,clean vehicle,3915,new york
+28999,ford,2018,clean vehicle,15550,pennsylvania
+13942,ford,2015,clean vehicle,62542,new jersey
+15300,ford,2018,clean vehicle,38370,utah
+35400,ford,2020,clean vehicle,671,ohio
+32700,ford,2016,clean vehicle,61477,alabama
+13995,ford,2015,clean vehicle,73891,new york
+1850,ford,2014,salvage insurance,168805,michigan
+15800,ford,2012,clean vehicle,82564,florida
+36000,ford,2016,clean vehicle,85649,mississippi
+15495,ford,2015,clean vehicle,48374,new york
+21500,ford,2012,clean vehicle,11990,florida
+7200,ford,2016,clean vehicle,64111,alabama
+17589,ford,2015,clean vehicle,28771,new jersey
+31700,ford,2015,clean vehicle,126708,alabama
+31790,ford,2015,clean vehicle,27165,new york
+18100,ford,2015,clean vehicle,106546,mississippi
+14495,ford,2015,clean vehicle,54778,new jersey
+15000,ford,2020,clean vehicle,11729,illinois
+26400,ford,2015,clean vehicle,85197,mississippi
+27990,ford,2015,clean vehicle,19130,massachusetts
+19700,ford,2015,clean vehicle,72369,mississippi
+15300,ford,2015,clean vehicle,59646,massachusetts
+22000,ford,2014,clean vehicle,68418,mississippi
+23999,ford,2015,clean vehicle,8400,new jersey
+16488,ford,2015,clean vehicle,45084,new york
+12784,ford,2015,clean vehicle,67037,new jersey
+23400,ford,2015,clean vehicle,64135,new jersey
+9705,ford,2017,clean vehicle,72377,arkansas
+25999,ford,2015,clean vehicle,39367,new jersey
+34977,ford,2015,clean vehicle,46540,pennsylvania
+19000,ford,2015,clean vehicle,40677,new jersey
+15995,ford,2015,clean vehicle,69438,new york
+13487,ford,2015,clean vehicle,96246,new york
+18707,ford,2015,clean vehicle,69719,connecticut
+15290,ford,2015,clean vehicle,75933,new york
+15600,ford,2015,clean vehicle,54325,new york
+47000,ford,2019,clean vehicle,24902,illinois
+16080,ford,2015,clean vehicle,31793,connecticut
+50000,ford,2019,clean vehicle,16505,illinois
+15268,ford,2015,clean vehicle,74361,new york
+47500,ford,2019,clean vehicle,27868,illinois
+18497,ford,2015,clean vehicle,34011,massachusetts
+10000,ford,2019,clean vehicle,19993,illinois
+19995,ford,2015,clean vehicle,48115,pennsylvania
+49000,ford,2019,clean vehicle,22543,illinois
+17150,ford,2015,clean vehicle,67091,new jersey
+45000,ford,2019,clean vehicle,28790,illinois
+14295,ford,2015,clean vehicle,59391,new jersey
+49000,ford,2019,clean vehicle,18449,illinois
+16190,ford,2015,clean vehicle,71824,new york
+49000,ford,2019,clean vehicle,19304,illinois
+17899,ford,2015,clean vehicle,39159,new york
+26000,ford,2019,clean vehicle,18708,illinois
+14000,ford,2015,clean vehicle,79430,new jersey
+15500,ford,2019,clean vehicle,12393,illinois
+16888,ford,2015,clean vehicle,56329,new york
+28000,ford,2019,clean vehicle,12155,illinois
+8305,ford,2014,clean vehicle,63291,arkansas
+21822,ford,2015,clean vehicle,36041,new jersey
+15500,ford,2019,clean vehicle,25810,illinois
+12500,ford,2015,clean vehicle,130388,arkansas
+15995,ford,2015,clean vehicle,23878,new york
+16000,ford,2019,clean vehicle,15460,illinois
+38200,ford,2018,clean vehicle,46710,north carolina
+12995,ford,2015,clean vehicle,65342,new york
+14488,ford,2015,clean vehicle,64061,massachusetts
+17500,ford,2016,clean vehicle,93164,florida
+21995,ford,2015,clean vehicle,35629,massachusetts
+8500,ford,2015,clean vehicle,118483,florida
+16593,ford,2015,clean vehicle,71573,massachusetts
+13000,ford,2017,clean vehicle,33660,illinois
+14247,ford,2015,clean vehicle,61168,pennsylvania
+23500,ford,2017,clean vehicle,42241,illinois
+16999,ford,2015,clean vehicle,21004,pennsylvania
+25000,ford,2017,clean vehicle,45003,illinois
+20159,ford,2015,clean vehicle,45278,new jersey
+31000,ford,2017,clean vehicle,1,illinois
+22500,ford,2018,clean vehicle,24747,colorado
+29500,ford,2017,clean vehicle,48707,illinois
+59900,ford,2020,clean vehicle,2162,ohio
+24000,ford,2017,clean vehicle,50874,illinois
+20500,ford,2017,clean vehicle,70727,illinois
+27200,ford,2019,clean vehicle,29382,north carolina
+24900,ford,2018,clean vehicle,33194,virginia
+24500,ford,2017,clean vehicle,52084,illinois
+34000,ford,2018,clean vehicle,51122,virginia
+28000,ford,2017,clean vehicle,40286,illinois
+27000,ford,2017,clean vehicle,55420,illinois
+34000,ford,2018,clean vehicle,10282,virginia
+42500,ford,2017,clean vehicle,85278,illinois
+33000,ford,2018,clean vehicle,7258,pennsylvania
+10200,ford,2018,clean vehicle,93350,pennsylvania
+25600,ford,2019,clean vehicle,37166,north carolina
+16300,ford,2018,clean vehicle,69480,texas
+26500,ford,2016,clean vehicle,34679,illinois
+36500,ford,2018,clean vehicle,24151,pennsylvania
+25900,ford,2019,clean vehicle,32796,north carolina
+22500,ford,2016,clean vehicle,67979,illinois
+29000,ford,2018,clean vehicle,18690,pennsylvania
+825,ford,2012,salvage insurance,78072,pennsylvania
+10500,ford,2016,clean vehicle,54251,illinois
+32000,ford,2018,clean vehicle,32262,pennsylvania
+27700,ford,2015,clean vehicle,92358,texas
+4000,ford,2015,clean vehicle,90740,illinois
+38800,ford,2018,clean vehicle,35225,pennsylvania
+26200,ford,2015,clean vehicle,129063,texas
+19500,ford,2018,clean vehicle,49985,wisconsin
+11700,ford,2015,clean vehicle,52340,illinois
+34000,ford,2018,clean vehicle,21406,pennsylvania
+38600,ford,2019,clean vehicle,16619,florida
+21500,ford,2015,clean vehicle,41293,illinois
+38500,ford,2018,clean vehicle,37053,pennsylvania
+38500,ford,2018,clean vehicle,34532,pennsylvania
+12000,ford,2017,clean vehicle,13328,missouri
+30500,ford,2018,clean vehicle,56836,pennsylvania
+11300,ford,2016,clean vehicle,48080,missouri
+29500,ford,2018,clean vehicle,12271,pennsylvania
+16100,ford,2014,clean vehicle,97318,missouri
+32500,ford,2018,clean vehicle,12717,pennsylvania
+29000,ford,2019,clean vehicle,12764,texas
+30000,ford,2018,clean vehicle,19951,pennsylvania
+26000,ford,2019,clean vehicle,32458,north carolina
+26000,ford,2018,clean vehicle,21616,pennsylvania
+18500,ford,2019,clean vehicle,17755,north carolina
+12000,ford,2017,clean vehicle,73846,texas
+30000,ford,2018,clean vehicle,15771,pennsylvania
+14700,ford,2019,clean vehicle,29168,north carolina
+25000,ford,2017,clean vehicle,159182,texas
+26550,ford,2018,clean vehicle,15296,pennsylvania
+27000,ford,2019,clean vehicle,30476,north carolina
+34000,ford,2016,clean vehicle,131754,texas
+27500,ford,2018,clean vehicle,26095,pennsylvania
+25500,ford,2018,clean vehicle,22107,pennsylvania
+13500,ford,2019,clean vehicle,31207,north carolina
+4000,ford,2015,clean vehicle,112810,texas
+25700,ford,2018,clean vehicle,19058,pennsylvania
+29000,ford,2015,clean vehicle,109137,texas
+30500,ford,2018,clean vehicle,24058,pennsylvania
+30000,ford,2018,clean vehicle,6967,pennsylvania
+9000,ford,2014,clean vehicle,118340,texas
+19000,ford,2018,clean vehicle,36145,pennsylvania
+25800,ford,2019,clean vehicle,33942,north carolina
+26500,ford,2018,clean vehicle,38868,pennsylvania
+29300,ford,2019,clean vehicle,36190,north carolina
+6300,ford,2018,clean vehicle,37177,pennsylvania
+25400,ford,2019,clean vehicle,39267,north carolina
+26000,ford,2018,clean vehicle,33350,pennsylvania
+7000,ford,2017,clean vehicle,57889,north carolina
+25900,ford,2018,clean vehicle,34081,pennsylvania
+9700,ford,2019,clean vehicle,26821,north carolina
+27000,ford,2018,clean vehicle,40577,pennsylvania
+9100,ford,2019,clean vehicle,52355,north carolina
+28000,ford,2018,clean vehicle,30620,pennsylvania
+25700,ford,2019,clean vehicle,22019,north carolina
+27500,ford,2018,clean vehicle,36742,pennsylvania
+9400,ford,2019,clean vehicle,32473,north carolina
+25500,ford,2018,clean vehicle,43406,pennsylvania
+20500,ford,2019,clean vehicle,34696,north carolina
+21500,ford,2018,clean vehicle,43519,pennsylvania
+12800,ford,2019,clean vehicle,37716,north carolina
+23900,ford,2018,clean vehicle,41627,pennsylvania
+9400,ford,2019,clean vehicle,29986,north carolina
+26900,ford,2018,clean vehicle,41496,pennsylvania
+25500,ford,2019,clean vehicle,20613,north carolina
+27000,ford,2018,clean vehicle,33475,pennsylvania
+9300,ford,2019,clean vehicle,32305,north carolina
+14400,ford,2018,clean vehicle,38148,pennsylvania
+19000,ford,2019,clean vehicle,39976,north carolina
+14000,ford,2018,clean vehicle,50513,pennsylvania
+13600,ford,2019,clean vehicle,31408,north carolina
+19200,ford,2018,clean vehicle,41351,pennsylvania
+13600,ford,2019,clean vehicle,32038,north carolina
+18600,ford,2018,clean vehicle,38279,pennsylvania
+13700,ford,2019,clean vehicle,30471,north carolina
+18200,ford,2018,clean vehicle,41569,pennsylvania
+13800,ford,2019,clean vehicle,31142,north carolina
+22000,ford,2018,clean vehicle,31598,pennsylvania
+13700,ford,2019,clean vehicle,31380,north carolina
+28000,ford,2018,clean vehicle,22179,pennsylvania
+13800,ford,2019,clean vehicle,29266,north carolina
+18600,ford,2018,clean vehicle,42156,pennsylvania
+13700,ford,2019,clean vehicle,30875,north carolina
+13700,ford,2019,clean vehicle,30609,north carolina
+13800,ford,2019,clean vehicle,29508,north carolina
+17700,ford,2019,clean vehicle,12837,north carolina
+13900,ford,2019,clean vehicle,29633,north carolina
+13900,ford,2019,clean vehicle,27461,north carolina
+50500,ford,2018,clean vehicle,74961,pennsylvania
+13600,ford,2019,clean vehicle,32154,north carolina
+55000,ford,2018,clean vehicle,37245,pennsylvania
+13800,ford,2019,clean vehicle,29345,north carolina
+56000,ford,2018,clean vehicle,25371,pennsylvania
+13800,ford,2019,clean vehicle,30054,north carolina
+45800,ford,2018,clean vehicle,11173,pennsylvania
+13800,ford,2019,clean vehicle,30902,north carolina
+5500,nissan,2018,clean vehicle,31231,north carolina
+14400,nissan,2020,clean vehicle,10728,arizona
+11450,nissan,2018,clean vehicle,35374,florida
+11000,nissan,2018,clean vehicle,36715,florida
+11450,nissan,2018,clean vehicle,33437,florida
+11000,nissan,2018,clean vehicle,36788,florida
+11200,nissan,2018,clean vehicle,35491,florida
+11400,nissan,2018,clean vehicle,33644,florida
+11450,nissan,2018,clean vehicle,35831,florida
+11050,nissan,2018,clean vehicle,35050,florida
+11400,nissan,2018,clean vehicle,34924,florida
+11050,nissan,2018,clean vehicle,34962,florida
+10850,nissan,2018,clean vehicle,39985,florida
+10900,nissan,2018,clean vehicle,38816,florida
+10450,nissan,2018,clean vehicle,41579,florida
+10800,nissan,2018,clean vehicle,40455,florida
+10850,nissan,2018,clean vehicle,39996,florida
+10800,nissan,2018,clean vehicle,41077,florida
+10850,nissan,2018,clean vehicle,39183,florida
+10800,nissan,2018,clean vehicle,40478,florida
+10900,nissan,2018,clean vehicle,38806,florida
+10400,nissan,2018,clean vehicle,45331,florida
+10500,nissan,2018,clean vehicle,43531,florida
+10800,nissan,2018,clean vehicle,41033,florida
+10800,nissan,2018,clean vehicle,40332,florida
+11200,nissan,2019,clean vehicle,22319,arizona
+11100,nissan,2019,clean vehicle,22305,arizona
+12200,nissan,2019,clean vehicle,36996,arizona
+4000,nissan,2019,clean vehicle,1,arizona
+9000,nissan,2019,clean vehicle,27611,arizona
+14900,nissan,2019,clean vehicle,26516,arizona
+4600,nissan,2019,clean vehicle,31397,arizona
+6400,nissan,2019,clean vehicle,18300,arizona
+10400,nissan,2019,clean vehicle,26743,arizona
+7800,nissan,2019,clean vehicle,15832,arizona
+12300,nissan,2019,clean vehicle,31939,arizona
+10900,nissan,2019,clean vehicle,31037,arizona
+8500,nissan,2019,clean vehicle,22521,arizona
+7300,nissan,2019,clean vehicle,31335,arizona
+5900,nissan,2019,clean vehicle,28315,arizona
+20000,nissan,2017,clean vehicle,83437,texas
+11200,nissan,2018,clean vehicle,42250,wisconsin
+14400,nissan,2018,clean vehicle,45732,wisconsin
+16500,nissan,2018,clean vehicle,49185,wisconsin
+13400,nissan,2017,clean vehicle,45826,wisconsin
+12500,nissan,2017,clean vehicle,36844,wisconsin
+6500,nissan,2013,clean vehicle,104343,illinois
+19800,nissan,2018,clean vehicle,34138,florida
+8800,nissan,2018,clean vehicle,34761,florida
+12800,nissan,2018,clean vehicle,32656,florida
+8800,nissan,2018,clean vehicle,34837,florida
+3500,nissan,2019,clean vehicle,30099,missouri
+750,nissan,2018,clean vehicle,37088,missouri
+10800,nissan,2017,clean vehicle,41729,florida
+22300,nissan,2017,clean vehicle,17195,texas
+8300,nissan,2018,clean vehicle,43064,california
+8300,nissan,2018,clean vehicle,47510,california
+8000,nissan,2018,clean vehicle,52571,california
+15200,nissan,2018,clean vehicle,12129,alabama
+6700,nissan,2017,clean vehicle,62280,california
+7500,nissan,2017,clean vehicle,74859,connecticut
+10500,nissan,2017,clean vehicle,59508,connecticut
+8400,nissan,2017,clean vehicle,58529,connecticut
+7000,nissan,2015,salvage insurance,24396,florida
+25500,nissan,2020,clean vehicle,10317,california
+4100,nissan,2017,salvage insurance,37619,florida
+13900,nissan,2020,clean vehicle,15160,california
+1900,nissan,2015,salvage insurance,91898,florida
+14700,nissan,2017,clean vehicle,31198,connecticut
+1900,nissan,2013,salvage insurance,144015,ohio
+18800,nissan,2017,clean vehicle,15621,missouri
+7800,nissan,2018,clean vehicle,54815,california
+13500,nissan,2016,clean vehicle,53011,louisiana
+8000,nissan,2018,clean vehicle,56255,california
+3300,nissan,2013,clean vehicle,100225,louisiana
+7200,nissan,2017,clean vehicle,54117,connecticut
+8000,nissan,2017,clean vehicle,54119,california
+1280,nissan,2012,salvage insurance,162176,indiana
+14000,nissan,2018,clean vehicle,37655,florida
+3500,nissan,2015,clean vehicle,101178,california
+600,nissan,2012,salvage insurance,206142,kansas
+12500,nissan,2018,clean vehicle,43187,california
+5800,nissan,2013,salvage insurance,105590,texas
+8000,nissan,2018,clean vehicle,53903,california
+8300,nissan,2018,clean vehicle,48977,california
+7500,nissan,2016,clean vehicle,77504,missouri
+8000,nissan,2018,clean vehicle,50871,california
+3500,nissan,2012,clean vehicle,107734,missouri
+8000,nissan,2018,clean vehicle,53098,california
+7800,nissan,2018,clean vehicle,51552,california
+8000,nissan,2018,clean vehicle,54692,california
+18500,nissan,2019,clean vehicle,18611,california
+8000,nissan,2018,clean vehicle,51654,california
+18300,nissan,2019,clean vehicle,24046,california
+7500,nissan,2018,clean vehicle,65184,california
+29800,nissan,2019,clean vehicle,37398,california
+21100,nissan,2020,clean vehicle,19597,south carolina
+16200,nissan,2019,clean vehicle,34122,california
+14700,nissan,2020,clean vehicle,15387,pennsylvania
+19000,nissan,2020,clean vehicle,264,california
+7500,nissan,2016,clean vehicle,58126,texas
+10999,nissan,2015,clean vehicle,43279,massachusetts
+2900,nissan,2012,salvage insurance,117844,north carolina
+19925,nissan,2016,clean vehicle,42837,alabama
+9500,nissan,2018,clean vehicle,42782,new jersey
+22800,nissan,2015,clean vehicle,35902,alabama
+11590,nissan,2015,clean vehicle,63933,new hampshire
+4700,nissan,2012,clean vehicle,100079,alabama
+11390,nissan,2015,clean vehicle,37953,new york
+14500,nissan,2017,clean vehicle,8677,tennessee
+12000,nissan,2020,clean vehicle,11583,ohio
+15000,nissan,2020,clean vehicle,14320,ohio
+7500,nissan,2016,clean vehicle,19723,georgia
+28000,nissan,2018,clean vehicle,29554,pennsylvania
+17500,nissan,2018,clean vehicle,39309,pennsylvania
+18000,nissan,2018,clean vehicle,34951,pennsylvania
+13200,nissan,2018,clean vehicle,35870,pennsylvania
+17000,nissan,2018,clean vehicle,44423,texas
+6700,nissan,2012,clean vehicle,92982,georgia
+23300,nissan,2018,clean vehicle,36844,texas
+26800,nissan,2018,clean vehicle,33605,new mexico
+18200,nissan,2018,clean vehicle,28009,tennessee
+18700,nissan,2018,clean vehicle,41366,virginia
+12900,nissan,2016,clean vehicle,98354,new jersey
+16000,nissan,2018,clean vehicle,39598,virginia
+19400,nissan,2020,clean vehicle,21009,minnesota
+10900,nissan,2018,clean vehicle,28880,tennessee
+15800,nissan,2018,clean vehicle,28626,virginia
+19800,nissan,2020,clean vehicle,14850,minnesota
+19000,nissan,2018,clean vehicle,41096,virginia
+18000,nissan,2020,clean vehicle,12748,minnesota
+19800,nissan,2020,clean vehicle,14531,minnesota
+19700,nissan,2020,clean vehicle,15931,minnesota
+20100,nissan,2020,clean vehicle,10875,minnesota
+19700,nissan,2019,clean vehicle,31172,minnesota
+23400,nissan,2019,clean vehicle,16248,minnesota
+23300,nissan,2019,clean vehicle,18137,minnesota
+17500,nissan,2019,clean vehicle,25664,minnesota
+17100,nissan,2019,clean vehicle,31026,minnesota
+15800,nissan,2019,clean vehicle,41287,minnesota
+13600,nissan,2019,clean vehicle,43612,minnesota
+14400,nissan,2019,clean vehicle,29545,minnesota
+19800,nissan,2019,clean vehicle,24303,minnesota
+17200,nissan,2019,clean vehicle,29661,minnesota
+20300,nissan,2019,clean vehicle,18857,minnesota
+20500,nissan,2019,clean vehicle,14470,minnesota
+16500,nissan,2019,clean vehicle,42364,minnesota
+16000,nissan,2019,clean vehicle,37108,minnesota
+14600,nissan,2019,clean vehicle,26432,minnesota
+16300,nissan,2019,clean vehicle,24174,minnesota
+15400,nissan,2019,clean vehicle,30756,minnesota
+15800,nissan,2019,clean vehicle,32473,minnesota
+15800,nissan,2019,clean vehicle,22947,minnesota
+21400,nissan,2018,clean vehicle,17127,georgia
+15300,nissan,2019,clean vehicle,20793,minnesota
+20100,nissan,2019,clean vehicle,32519,minnesota
+11300,nissan,2019,clean vehicle,26930,minnesota
+10700,nissan,2019,clean vehicle,40839,minnesota
+16000,nissan,2018,clean vehicle,44732,south carolina
+16600,nissan,2019,clean vehicle,19292,minnesota
+15800,nissan,2019,clean vehicle,24155,minnesota
+11600,nissan,2019,clean vehicle,33369,minnesota
+15000,nissan,2017,clean vehicle,28918,virginia
+17600,nissan,2019,clean vehicle,21623,minnesota
+36300,nissan,2017,clean vehicle,16224,virginia
+15600,nissan,2019,clean vehicle,26406,minnesota
+14000,nissan,2017,clean vehicle,27790,virginia
+16600,nissan,2019,clean vehicle,19182,minnesota
+12600,nissan,2017,clean vehicle,11837,tennessee
+20900,nissan,2019,clean vehicle,21774,minnesota
+12700,nissan,2017,clean vehicle,17738,tennessee
+15600,nissan,2019,clean vehicle,27206,minnesota
+18900,nissan,2019,clean vehicle,20508,minnesota
+15700,nissan,2019,clean vehicle,24987,minnesota
+21900,nissan,2019,clean vehicle,21273,minnesota
+21700,nissan,2019,clean vehicle,23863,minnesota
+14600,nissan,2016,clean vehicle,31566,virginia
+12000,nissan,2019,clean vehicle,25261,minnesota
+21000,nissan,2019,clean vehicle,20628,minnesota
+12500,nissan,2017,clean vehicle,48765,pennsylvania
+15900,nissan,2019,clean vehicle,30645,minnesota
+11800,nissan,2017,clean vehicle,60158,pennsylvania
+9900,nissan,2019,clean vehicle,39985,minnesota
+10600,nissan,2018,clean vehicle,39208,minnesota
+10100,nissan,2018,clean vehicle,45080,minnesota
+13300,nissan,2018,clean vehicle,39247,minnesota
+10100,nissan,2018,clean vehicle,46382,minnesota
+10300,nissan,2018,clean vehicle,39893,minnesota
+10300,nissan,2018,clean vehicle,41203,minnesota
+10300,nissan,2018,clean vehicle,40648,minnesota
+24000,nissan,2018,clean vehicle,31551,minnesota
+10400,nissan,2018,clean vehicle,38761,minnesota
+10200,nissan,2018,clean vehicle,42838,minnesota
+9500,nissan,2018,clean vehicle,41557,minnesota
+10500,nissan,2018,clean vehicle,41136,minnesota
+10500,nissan,2018,clean vehicle,41141,minnesota
+3500,nissan,2016,clean vehicle,115716,pennsylvania
+9300,nissan,2018,clean vehicle,52260,minnesota
+14100,nissan,2016,clean vehicle,22041,pennsylvania
+2425,nissan,2012,salvage insurance,161836,tennessee
+925,nissan,2012,salvage insurance,83720,tennessee
+11000,nissan,2016,clean vehicle,37605,pennsylvania
+11000,nissan,2016,clean vehicle,63738,pennsylvania
+2100,nissan,2013,salvage insurance,155704,tennessee
+800,nissan,2012,salvage insurance,234792,florida
+20400,nissan,2018,clean vehicle,24143,south carolina
+375,nissan,2017,salvage insurance,1,north carolina
+3000,nissan,2015,clean vehicle,132655,pennsylvania
+15100,nissan,2017,clean vehicle,28079,south carolina
+4000,nissan,2015,salvage insurance,74906,north carolina
+19500,nissan,2017,clean vehicle,53155,south carolina
+22600,nissan,2017,clean vehicle,94258,south carolina
+6500,nissan,2014,clean vehicle,65620,pennsylvania
+11800,nissan,2012,clean vehicle,92878,pennsylvania
+20500,nissan,2017,clean vehicle,25918,missouri
+14200,nissan,2018,clean vehicle,37830,ohio
+22000,nissan,2018,clean vehicle,13875,ohio
+16200,nissan,2018,clean vehicle,6024,ohio
+4800,nissan,2016,salvage insurance,76789,texas
+16000,nissan,2018,clean vehicle,30409,ohio
+14300,nissan,2018,clean vehicle,44864,ohio
+16800,nissan,2019,clean vehicle,42397,florida
+11900,nissan,2018,clean vehicle,16778,ohio
+3000,nissan,2015,salvage insurance,99767,south carolina
+15000,nissan,2019,clean vehicle,34692,florida
+15200,nissan,2019,clean vehicle,30721,florida
+18000,nissan,2017,clean vehicle,53376,ohio
+22700,nissan,2016,clean vehicle,21282,ohio
+3800,nissan,2015,clean vehicle,81699,texas
+5475,nissan,2018,salvage insurance,33048,connecticut
+11400,nissan,2018,clean vehicle,10372,illinois
+28100,nissan,2018,clean vehicle,8889,illinois
+3500,nissan,2017,clean vehicle,127780,illinois
+15200,nissan,2016,clean vehicle,59640,illinois
+1950,nissan,2015,salvage insurance,83975,california
+13400,nissan,2016,clean vehicle,46178,illinois
+12500,nissan,2018,clean vehicle,34460,florida
+16500,nissan,2018,clean vehicle,30594,florida
+16500,nissan,2018,clean vehicle,39817,florida
+16500,nissan,2018,clean vehicle,40419,florida
+13900,nissan,2018,clean vehicle,35493,florida
+13900,nissan,2018,clean vehicle,37073,florida
+1500,nissan,2013,salvage insurance,98384,maryland
+16500,nissan,2018,clean vehicle,34640,florida
+13900,nissan,2018,clean vehicle,38760,florida
+16500,nissan,2018,clean vehicle,34841,florida
+13900,nissan,2018,clean vehicle,35065,florida
+12400,nissan,2018,clean vehicle,37741,florida
+13000,nissan,2018,clean vehicle,27488,florida
+16500,nissan,2018,clean vehicle,37452,florida
+13900,nissan,2018,clean vehicle,39797,florida
+16500,nissan,2018,clean vehicle,36714,florida
+13900,nissan,2018,clean vehicle,36207,florida
+13900,nissan,2018,clean vehicle,38563,florida
+13900,nissan,2018,clean vehicle,39885,florida
+12100,nissan,2018,clean vehicle,41852,florida
+16500,nissan,2018,clean vehicle,39454,florida
+16500,nissan,2018,clean vehicle,40203,florida
+13900,nissan,2018,clean vehicle,34547,florida
+3700,nissan,2015,clean vehicle,75858,illinois
+18800,nissan,2019,clean vehicle,31123,north carolina
+9200,nissan,2018,clean vehicle,33808,florida
+30100,nissan,2019,clean vehicle,30599,north carolina
+9200,nissan,2018,clean vehicle,33931,florida
+11100,nissan,2019,clean vehicle,40359,north carolina
+13900,nissan,2018,clean vehicle,44313,florida
+9100,nissan,2018,clean vehicle,33078,florida
+22800,nissan,2019,clean vehicle,24320,illinois
+13900,nissan,2018,clean vehicle,42502,florida
+12600,nissan,2019,clean vehicle,33497,california
+9200,nissan,2018,clean vehicle,39577,florida
+12100,nissan,2019,clean vehicle,36974,california
+9200,nissan,2018,clean vehicle,41220,florida
+2300,nissan,2019,clean vehicle,1,california
+13900,nissan,2018,clean vehicle,41539,florida
+9500,nissan,2019,clean vehicle,19646,california
+13900,nissan,2018,clean vehicle,39924,florida
+1700,nissan,2019,clean vehicle,33279,california
+13900,nissan,2018,clean vehicle,40259,florida
+10400,nissan,2019,clean vehicle,25264,california
+9200,nissan,2018,clean vehicle,35677,florida
+7400,nissan,2019,clean vehicle,35511,california
+9200,nissan,2018,clean vehicle,33027,florida
+7800,nissan,2019,clean vehicle,23609,california
+9200,nissan,2018,clean vehicle,34553,florida
+9200,nissan,2018,clean vehicle,31594,florida
+9200,nissan,2018,clean vehicle,32557,florida
+9200,nissan,2018,clean vehicle,31371,florida
